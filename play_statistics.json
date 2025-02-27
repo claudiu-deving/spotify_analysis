@@ -1,0 +1,4482 @@
+{
+  "totalUniqueSongs": 746,
+  "totalPlays": 2364,
+  "songStats": [
+    {
+      "artistName": "Måneskin",
+      "trackName": "SUPERMODEL",
+      "playCount": 30,
+      "totalMsPlayed": 4372712
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "ZITTI E BUONI",
+      "playCount": 30,
+      "totalMsPlayed": 5648790
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "Beggin'",
+      "playCount": 30,
+      "totalMsPlayed": 5924916
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "VALENTINE",
+      "playCount": 30,
+      "totalMsPlayed": 5944681
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "CORALINE",
+      "playCount": 30,
+      "totalMsPlayed": 7898285
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "MAMMAMIA",
+      "playCount": 27,
+      "totalMsPlayed": 4577948
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "OFF MY FACE",
+      "playCount": 21,
+      "totalMsPlayed": 3098147
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "Morirò da Re",
+      "playCount": 20,
+      "totalMsPlayed": 3156527
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "READ YOUR DIARY",
+      "playCount": 21,
+      "totalMsPlayed": 2864750
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "THE DRIVER",
+      "playCount": 19,
+      "totalMsPlayed": 3484662
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "L'altra dimensione",
+      "playCount": 19,
+      "totalMsPlayed": 2337100
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Skills in Pills",
+      "playCount": 16,
+      "totalMsPlayed": 3832481
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Ladyboy",
+      "playCount": 18,
+      "totalMsPlayed": 3161152
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Fat",
+      "playCount": 15,
+      "totalMsPlayed": 3528966
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Fish On",
+      "playCount": 17,
+      "totalMsPlayed": 3341390
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Children of the Sun",
+      "playCount": 12,
+      "totalMsPlayed": 1984831
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Home Sweet Home",
+      "playCount": 12,
+      "totalMsPlayed": 2029759
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Cowboy",
+      "playCount": 12,
+      "totalMsPlayed": 2014665
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Golden Shower",
+      "playCount": 12,
+      "totalMsPlayed": 2723005
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Yukon",
+      "playCount": 8,
+      "totalMsPlayed": 2279224
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Praise Abort",
+      "playCount": 14,
+      "totalMsPlayed": 3645856
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "I WANNA BE YOUR SLAVE",
+      "playCount": 34,
+      "totalMsPlayed": 5893764
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "GOSSIP (feat. Tom Morello)",
+      "playCount": 54,
+      "totalMsPlayed": 8554720
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "THE LONELIEST",
+      "playCount": 32,
+      "totalMsPlayed": 7583571
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "HONEY (ARE U COMING?)",
+      "playCount": 30,
+      "totalMsPlayed": 4886530
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "BABY SAID",
+      "playCount": 29,
+      "totalMsPlayed": 4775778
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "TIMEZONE",
+      "playCount": 18,
+      "totalMsPlayed": 3043906
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "FOR YOUR LOVE",
+      "playCount": 17,
+      "totalMsPlayed": 3557076
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "OWN MY MIND",
+      "playCount": 16,
+      "totalMsPlayed": 2686866
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "Fear for Nobody",
+      "playCount": 13,
+      "totalMsPlayed": 1849204
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "LA PAURA DEL BUIO",
+      "playCount": 12,
+      "totalMsPlayed": 2517432
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "Torna a casa",
+      "playCount": 12,
+      "totalMsPlayed": 2704638
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "Chosen",
+      "playCount": 11,
+      "totalMsPlayed": 1622730
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "Somebody Told Me",
+      "playCount": 12,
+      "totalMsPlayed": 1774850
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "VENT'ANNI",
+      "playCount": 10,
+      "totalMsPlayed": 2535860
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "Are You Ready?",
+      "playCount": 11,
+      "totalMsPlayed": 1431664
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "Le parole lontane",
+      "playCount": 10,
+      "totalMsPlayed": 1654629
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "LA FINE",
+      "playCount": 9,
+      "totalMsPlayed": 1805292
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "TRASTEVERE",
+      "playCount": 17,
+      "totalMsPlayed": 2635669
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "IL DONO DELLA VITA",
+      "playCount": 12,
+      "totalMsPlayed": 2208603
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "LIVIDI SUI GOMITI",
+      "playCount": 9,
+      "totalMsPlayed": 1164770
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Read your Mind",
+      "playCount": 16,
+      "totalMsPlayed": 3137382
+    },
+    {
+      "artistName": "Elton John",
+      "trackName": "Breaking Hearts (Ain't What It Used To Be)",
+      "playCount": 1,
+      "totalMsPlayed": 213840
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "Super Trouper",
+      "playCount": 1,
+      "totalMsPlayed": 252853
+    },
+    {
+      "artistName": "Billy Joel",
+      "trackName": "Vienna",
+      "playCount": 4,
+      "totalMsPlayed": 856960
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Please Please Please",
+      "playCount": 21,
+      "totalMsPlayed": 3702897
+    },
+    {
+      "artistName": "Billy Joel",
+      "trackName": "It's Still Rock and Roll to Me",
+      "playCount": 2,
+      "totalMsPlayed": 352880
+    },
+    {
+      "artistName": "Billy Joel",
+      "trackName": "Piano Man",
+      "playCount": 3,
+      "totalMsPlayed": 1014200
+    },
+    {
+      "artistName": "Michael Sembello",
+      "trackName": "Maniac",
+      "playCount": 2,
+      "totalMsPlayed": 489412
+    },
+    {
+      "artistName": "Men At Work",
+      "trackName": "Down Under",
+      "playCount": 1,
+      "totalMsPlayed": 222320
+    },
+    {
+      "artistName": "My Chemical Romance",
+      "trackName": "I'm Not Okay (I Promise)",
+      "playCount": 3,
+      "totalMsPlayed": 559440
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "Take A Chance On Me",
+      "playCount": 1,
+      "totalMsPlayed": 243933
+    },
+    {
+      "artistName": "HIM",
+      "trackName": "Solitary Man",
+      "playCount": 1,
+      "totalMsPlayed": 216866
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Espresso",
+      "playCount": 20,
+      "totalMsPlayed": 3212971
+    },
+    {
+      "artistName": "Eric Clapton",
+      "trackName": "Tears in Heaven - Acoustic Live",
+      "playCount": 1,
+      "totalMsPlayed": 280000
+    },
+    {
+      "artistName": "Billy Joel",
+      "trackName": "The River of Dreams",
+      "playCount": 4,
+      "totalMsPlayed": 756478
+    },
+    {
+      "artistName": "Slipknot",
+      "trackName": "Snuff",
+      "playCount": 3,
+      "totalMsPlayed": 553775
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Nonsense",
+      "playCount": 21,
+      "totalMsPlayed": 3272969
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "Angeleyes",
+      "playCount": 1,
+      "totalMsPlayed": 262493
+    },
+    {
+      "artistName": "Billy Joel",
+      "trackName": "Uptown Girl",
+      "playCount": 3,
+      "totalMsPlayed": 593118
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "Dancing Queen",
+      "playCount": 4,
+      "totalMsPlayed": 735770
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "The Winner Takes It All",
+      "playCount": 1,
+      "totalMsPlayed": 294720
+    },
+    {
+      "artistName": "Bette Midler",
+      "trackName": "The Rose",
+      "playCount": 1,
+      "totalMsPlayed": 221373
+    },
+    {
+      "artistName": "Billy Joel",
+      "trackName": "Just the Way You Are",
+      "playCount": 4,
+      "totalMsPlayed": 596500
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "Money, Money, Money",
+      "playCount": 4,
+      "totalMsPlayed": 561278
+    },
+    {
+      "artistName": "Boney M.",
+      "trackName": "Daddy Cool",
+      "playCount": 11,
+      "totalMsPlayed": 1399954
+    },
+    {
+      "artistName": "My Chemical Romance",
+      "trackName": "Teenagers",
+      "playCount": 5,
+      "totalMsPlayed": 809600
+    },
+    {
+      "artistName": "Billy Joel",
+      "trackName": "We Didn't Start the Fire",
+      "playCount": 4,
+      "totalMsPlayed": 906389
+    },
+    {
+      "artistName": "Lordi",
+      "trackName": "Hug You Hardcore",
+      "playCount": 21,
+      "totalMsPlayed": 4023025
+    },
+    {
+      "artistName": "HIM",
+      "trackName": "In Joy And Sorrow",
+      "playCount": 1,
+      "totalMsPlayed": 238960
+    },
+    {
+      "artistName": "Prince",
+      "trackName": "When Doves Cry",
+      "playCount": 2,
+      "totalMsPlayed": 708266
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "Waterloo",
+      "playCount": 1,
+      "totalMsPlayed": 67681
+    },
+    {
+      "artistName": "Skindred",
+      "trackName": "Gimme That Boom",
+      "playCount": 7,
+      "totalMsPlayed": 852950
+    },
+    {
+      "artistName": "Powerwolf",
+      "trackName": "We Drink Your Blood",
+      "playCount": 3,
+      "totalMsPlayed": 535629
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Rosenrot",
+      "playCount": 5,
+      "totalMsPlayed": 938824
+    },
+    {
+      "artistName": "OOMPH!",
+      "trackName": "Labyrinth",
+      "playCount": 2,
+      "totalMsPlayed": 507492
+    },
+    {
+      "artistName": "PAIN",
+      "trackName": "Shut Your Mouth",
+      "playCount": 7,
+      "totalMsPlayed": 1160119
+    },
+    {
+      "artistName": "BABYMETAL",
+      "trackName": "RATATATA",
+      "playCount": 1,
+      "totalMsPlayed": 216428
+    },
+    {
+      "artistName": "Five Finger Death Punch",
+      "trackName": "Welcome To The Circus",
+      "playCount": 3,
+      "totalMsPlayed": 770223
+    },
+    {
+      "artistName": "Machine Head",
+      "trackName": "Is There Anybody Out There?",
+      "playCount": 3,
+      "totalMsPlayed": 783234
+    },
+    {
+      "artistName": "Eisbrecher",
+      "trackName": "Verrückt",
+      "playCount": 1,
+      "totalMsPlayed": 201293
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Platz Eins",
+      "playCount": 8,
+      "totalMsPlayed": 1651513
+    },
+    {
+      "artistName": "Powerwolf",
+      "trackName": "Demons Are a Girl's Best Friend",
+      "playCount": 3,
+      "totalMsPlayed": 508693
+    },
+    {
+      "artistName": "Sabaton",
+      "trackName": "Night Witches",
+      "playCount": 1,
+      "totalMsPlayed": 181333
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Steh auf",
+      "playCount": 14,
+      "totalMsPlayed": 2393040
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Sport frei",
+      "playCount": 5,
+      "totalMsPlayed": 1010480
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Square Hammer",
+      "playCount": 10,
+      "totalMsPlayed": 2030892
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Renaissance",
+      "playCount": 5,
+      "totalMsPlayed": 490760
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Habits",
+      "playCount": 5,
+      "totalMsPlayed": 1491920
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Trouble",
+      "playCount": 5,
+      "totalMsPlayed": 207435
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Brand New Dance",
+      "playCount": 6,
+      "totalMsPlayed": 1239894
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Evil",
+      "playCount": 5,
+      "totalMsPlayed": 1151790
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "All You Got - skit",
+      "playCount": 5,
+      "totalMsPlayed": 121795
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Lucifer",
+      "playCount": 5,
+      "totalMsPlayed": 1122119
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Antichrist",
+      "playCount": 4,
+      "totalMsPlayed": 1256904
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Fuel",
+      "playCount": 5,
+      "totalMsPlayed": 1066116
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Road Rage",
+      "playCount": 3,
+      "totalMsPlayed": 653208
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "DON'T WANNA SLEEP",
+      "playCount": 3,
+      "totalMsPlayed": 468171
+    },
+    {
+      "artistName": "Linkin Park",
+      "trackName": "Heavy Is the Crown",
+      "playCount": 4,
+      "totalMsPlayed": 501979
+    },
+    {
+      "artistName": "Artemas",
+      "trackName": "i like the way you kiss me",
+      "playCount": 5,
+      "totalMsPlayed": 461996
+    },
+    {
+      "artistName": "Hozier",
+      "trackName": "Too Sweet",
+      "playCount": 6,
+      "totalMsPlayed": 1030511
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Houdini",
+      "playCount": 6,
+      "totalMsPlayed": 1196043
+    },
+    {
+      "artistName": "Five Finger Death Punch",
+      "trackName": "This Is The Way (feat. DMX)",
+      "playCount": 1,
+      "totalMsPlayed": 33534
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Mein Herz brennt",
+      "playCount": 7,
+      "totalMsPlayed": 1679358
+    },
+    {
+      "artistName": "Linkin Park",
+      "trackName": "The Emptiness Machine",
+      "playCount": 3,
+      "totalMsPlayed": 18050
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Raise The Red Flag",
+      "playCount": 1,
+      "totalMsPlayed": 289486
+    },
+    {
+      "artistName": "Falling In Reverse",
+      "trackName": "Ronald",
+      "playCount": 1,
+      "totalMsPlayed": 196753
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Amerika",
+      "playCount": 6,
+      "totalMsPlayed": 1360560
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Übers Meer",
+      "playCount": 7,
+      "totalMsPlayed": 1030340
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "As Sick As The Secrets Within",
+      "playCount": 2,
+      "totalMsPlayed": 346360
+    },
+    {
+      "artistName": "Dissection",
+      "trackName": "God of Forbidden Light",
+      "playCount": 3,
+      "totalMsPlayed": 666747
+    },
+    {
+      "artistName": "Epica",
+      "trackName": "Cry for the Moon (The Embrace That Smothers , Pt. 4)",
+      "playCount": 3,
+      "totalMsPlayed": 821980
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "Open the Gates",
+      "playCount": 3,
+      "totalMsPlayed": 822279
+    },
+    {
+      "artistName": "Heaven Shall Burn",
+      "trackName": "Forlorn Skies",
+      "playCount": 2,
+      "totalMsPlayed": 581652
+    },
+    {
+      "artistName": "Marduk",
+      "trackName": "Steel Inferno - remastered",
+      "playCount": 2,
+      "totalMsPlayed": 287680
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "Hail Murder - Live in South America 2003",
+      "playCount": 2,
+      "totalMsPlayed": 616720
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "Vobiscum Satanas",
+      "playCount": 3,
+      "totalMsPlayed": 722250
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "The Dawn No More Rises - Live in South America 2003",
+      "playCount": 3,
+      "totalMsPlayed": 620160
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "My Dark Desires - Live in South America 2003",
+      "playCount": 3,
+      "totalMsPlayed": 668445
+    },
+    {
+      "artistName": "Heaven Shall Burn",
+      "trackName": "Endzeit",
+      "playCount": 3,
+      "totalMsPlayed": 773640
+    },
+    {
+      "artistName": "Slayer",
+      "trackName": "Angel Of Death",
+      "playCount": 3,
+      "totalMsPlayed": 516680
+    },
+    {
+      "artistName": "Marduk",
+      "trackName": "With Satan and Victorious Weapons",
+      "playCount": 3,
+      "totalMsPlayed": 693999
+    },
+    {
+      "artistName": "Dissection",
+      "trackName": "Black Dragon",
+      "playCount": 3,
+      "totalMsPlayed": 864546
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Ov Fire and the Void",
+      "playCount": 5,
+      "totalMsPlayed": 1336600
+    },
+    {
+      "artistName": "Rotting Christ",
+      "trackName": "Athanati Este",
+      "playCount": 2,
+      "totalMsPlayed": 680506
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "The Dawn No More Rises",
+      "playCount": 2,
+      "totalMsPlayed": 408889
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "That's My Heart",
+      "playCount": 7,
+      "totalMsPlayed": 1423644
+    },
+    {
+      "artistName": "Korpiklaani",
+      "trackName": "Ieva'S Polka",
+      "playCount": 16,
+      "totalMsPlayed": 2637528
+    },
+    {
+      "artistName": "Kovacs",
+      "trackName": "Child Of Sin",
+      "playCount": 17,
+      "totalMsPlayed": 1908502
+    },
+    {
+      "artistName": "Linkin Park",
+      "trackName": "Bleed It Out",
+      "playCount": 3,
+      "totalMsPlayed": 75394
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Strife",
+      "playCount": 2,
+      "totalMsPlayed": 538532
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "The Heart from Your Hate",
+      "playCount": 4,
+      "totalMsPlayed": 975412
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Shogun",
+      "playCount": 1,
+      "totalMsPlayed": 714986
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Down from the Sky",
+      "playCount": 2,
+      "totalMsPlayed": 668880
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "The Defiant",
+      "playCount": 2,
+      "totalMsPlayed": 521895
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Into the Mouth of Hell We March",
+      "playCount": 1,
+      "totalMsPlayed": 352013
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Dying in Your Arms",
+      "playCount": 2,
+      "totalMsPlayed": 346320
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Vengeance Falls",
+      "playCount": 1,
+      "totalMsPlayed": 51583
+    },
+    {
+      "artistName": "Apocalyptica",
+      "trackName": "Helden",
+      "playCount": 8,
+      "totalMsPlayed": 1387967
+    },
+    {
+      "artistName": "Paradise Lost",
+      "trackName": "Small Town Boy",
+      "playCount": 3,
+      "totalMsPlayed": 636726
+    },
+    {
+      "artistName": "Korpiklaani",
+      "trackName": "A Man with a Plan",
+      "playCount": 1,
+      "totalMsPlayed": 179820
+    },
+    {
+      "artistName": "Emigrate",
+      "trackName": "ALWAYS ON MY MIND (feat. Till Lindemann)",
+      "playCount": 4,
+      "totalMsPlayed": 839144
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "I Don't Wanna Be Me",
+      "playCount": 2,
+      "totalMsPlayed": 457424
+    },
+    {
+      "artistName": "Apocalyptica",
+      "trackName": "Path Vol. 2",
+      "playCount": 2,
+      "totalMsPlayed": 408880
+    },
+    {
+      "artistName": "HammerFall",
+      "trackName": "Any Means Necessary",
+      "playCount": 1,
+      "totalMsPlayed": 215306
+    },
+    {
+      "artistName": "Korpiklaani",
+      "trackName": "Rauta",
+      "playCount": 1,
+      "totalMsPlayed": 186120
+    },
+    {
+      "artistName": "Paradise Lost",
+      "trackName": "Erased",
+      "playCount": 1,
+      "totalMsPlayed": 212880
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Knebel",
+      "playCount": 8,
+      "totalMsPlayed": 1487530
+    },
+    {
+      "artistName": "Lordi",
+      "trackName": "Devil Is A Loser",
+      "playCount": 1,
+      "totalMsPlayed": 209533
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Links 2 3 4",
+      "playCount": 8,
+      "totalMsPlayed": 1518631
+    },
+    {
+      "artistName": "Korpiklaani",
+      "trackName": "Vodka",
+      "playCount": 2,
+      "totalMsPlayed": 68849
+    },
+    {
+      "artistName": "Apocalyptica",
+      "trackName": "I'm Not Jesus - International Version",
+      "playCount": 4,
+      "totalMsPlayed": 431400
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Blut",
+      "playCount": 9,
+      "totalMsPlayed": 1878808
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Feather",
+      "playCount": 13,
+      "totalMsPlayed": 2227844
+    },
+    {
+      "artistName": "My Chemical Romance",
+      "trackName": "Helena",
+      "playCount": 2,
+      "totalMsPlayed": 374022
+    },
+    {
+      "artistName": "My Chemical Romance",
+      "trackName": "Mama",
+      "playCount": 1,
+      "totalMsPlayed": 279026
+    },
+    {
+      "artistName": "Vesna",
+      "trackName": "My sister's crown",
+      "playCount": 1,
+      "totalMsPlayed": 1110
+    },
+    {
+      "artistName": "Olivia Rodrigo",
+      "trackName": "bad idea right?",
+      "playCount": 2,
+      "totalMsPlayed": 187973
+    },
+    {
+      "artistName": "Black Gryph0n",
+      "trackName": "Insane",
+      "playCount": 2,
+      "totalMsPlayed": 161564
+    },
+    {
+      "artistName": "System Of A Down",
+      "trackName": "Lonely Day",
+      "playCount": 5,
+      "totalMsPlayed": 208517
+    },
+    {
+      "artistName": "Imagine Dragons",
+      "trackName": "Sharks",
+      "playCount": 4,
+      "totalMsPlayed": 394496
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Spillways",
+      "playCount": 9,
+      "totalMsPlayed": 1577408
+    },
+    {
+      "artistName": "Dissection",
+      "trackName": "The Somberlain",
+      "playCount": 3,
+      "totalMsPlayed": 462946
+    },
+    {
+      "artistName": "Slayer",
+      "trackName": "Disciple",
+      "playCount": 2,
+      "totalMsPlayed": 431386
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "Open the Gates - Live in South America 2003",
+      "playCount": 2,
+      "totalMsPlayed": 469652
+    },
+    {
+      "artistName": "Dissection",
+      "trackName": "Maha-Kali",
+      "playCount": 3,
+      "totalMsPlayed": 1093380
+    },
+    {
+      "artistName": "Dissection",
+      "trackName": "Dark Mother Divine",
+      "playCount": 2,
+      "totalMsPlayed": 688586
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "Atrum Regina",
+      "playCount": 2,
+      "totalMsPlayed": 334930
+    },
+    {
+      "artistName": "Kataklysm",
+      "trackName": "Crippled & Broken",
+      "playCount": 2,
+      "totalMsPlayed": 545750
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Blow Your Trumpets Gabriel",
+      "playCount": 3,
+      "totalMsPlayed": 796320
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "O Father O Satan O Sun!",
+      "playCount": 2,
+      "totalMsPlayed": 866879
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Bartzabel",
+      "playCount": 2,
+      "totalMsPlayed": 602570
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Conquer All",
+      "playCount": 1,
+      "totalMsPlayed": 211266
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Ora Pro Nobis Lucifer",
+      "playCount": 1,
+      "totalMsPlayed": 335213
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "The Deathless Sun",
+      "playCount": 1,
+      "totalMsPlayed": 283336
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "The Satanist",
+      "playCount": 2,
+      "totalMsPlayed": 146723
+    },
+    {
+      "artistName": "Benson Boone",
+      "trackName": "Slow It Down",
+      "playCount": 3,
+      "totalMsPlayed": 344308
+    },
+    {
+      "artistName": "The Kid LAROI",
+      "trackName": "GIRLS",
+      "playCount": 1,
+      "totalMsPlayed": 16256
+    },
+    {
+      "artistName": "Myles Smith",
+      "trackName": "Stargazing",
+      "playCount": 3,
+      "totalMsPlayed": 507588
+    },
+    {
+      "artistName": "Shaboozey",
+      "trackName": "A Bar Song (Tipsy)",
+      "playCount": 4,
+      "totalMsPlayed": 681424
+    },
+    {
+      "artistName": "Post Malone",
+      "trackName": "I Had Some Help (Feat. Morgan Wallen)",
+      "playCount": 1,
+      "totalMsPlayed": 19598
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Somebody Save Me",
+      "playCount": 2,
+      "totalMsPlayed": 232389
+    },
+    {
+      "artistName": "Tommy Richman",
+      "trackName": "MILLION DOLLAR BABY",
+      "playCount": 1,
+      "totalMsPlayed": 1960
+    },
+    {
+      "artistName": "Kendrick Lamar",
+      "trackName": "Not Like Us",
+      "playCount": 1,
+      "totalMsPlayed": 274192
+    },
+    {
+      "artistName": "Benson Boone",
+      "trackName": "Beautiful Things",
+      "playCount": 3,
+      "totalMsPlayed": 246262
+    },
+    {
+      "artistName": "Teddy Swims",
+      "trackName": "The Door",
+      "playCount": 2,
+      "totalMsPlayed": 425296
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Tobey (feat. Big Sean and BabyTron)",
+      "playCount": 3,
+      "totalMsPlayed": 556131
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Once Upon A Pale Horse",
+      "playCount": 1,
+      "totalMsPlayed": 256785
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Solve",
+      "playCount": 1,
+      "totalMsPlayed": 124262
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Slaying the Prophets Ov Isa",
+      "playCount": 1,
+      "totalMsPlayed": 203146
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Daimonos",
+      "playCount": 1,
+      "totalMsPlayed": 315440
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "God = Dog",
+      "playCount": 1,
+      "totalMsPlayed": 238905
+    },
+    {
+      "artistName": "Behemoth",
+      "trackName": "Wolves Ov Siberia",
+      "playCount": 1,
+      "totalMsPlayed": 76814
+    },
+    {
+      "artistName": "Boney M.",
+      "trackName": "Rivers of Babylon",
+      "playCount": 4,
+      "totalMsPlayed": 779846
+    },
+    {
+      "artistName": "Billy Joel",
+      "trackName": "She's Always a Woman",
+      "playCount": 2,
+      "totalMsPlayed": 402746
+    },
+    {
+      "artistName": "Madonna",
+      "trackName": "Like a Prayer",
+      "playCount": 1,
+      "totalMsPlayed": 261250
+    },
+    {
+      "artistName": "Natasha Bedingfield",
+      "trackName": "Unwritten",
+      "playCount": 1,
+      "totalMsPlayed": 19888
+    },
+    {
+      "artistName": "Belinda Carlisle",
+      "trackName": "Heaven Is A Place On Earth",
+      "playCount": 1,
+      "totalMsPlayed": 247093
+    },
+    {
+      "artistName": "Alphaville",
+      "trackName": "Forever Young",
+      "playCount": 2,
+      "totalMsPlayed": 453412
+    },
+    {
+      "artistName": "Dasha",
+      "trackName": "Austin (Boots Stop Workin')",
+      "playCount": 1,
+      "totalMsPlayed": 171781
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "Mamma Mia",
+      "playCount": 1,
+      "totalMsPlayed": 213266
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Taste",
+      "playCount": 1,
+      "totalMsPlayed": 157279
+    },
+    {
+      "artistName": "Sophie Ellis-Bextor",
+      "trackName": "Murder On The Dancefloor",
+      "playCount": 1,
+      "totalMsPlayed": 101721
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Du hast",
+      "playCount": 7,
+      "totalMsPlayed": 1637624
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Dance Macabre",
+      "playCount": 10,
+      "totalMsPlayed": 1912395
+    },
+    {
+      "artistName": "Alice Cooper",
+      "trackName": "Poison",
+      "playCount": 3,
+      "totalMsPlayed": 649916
+    },
+    {
+      "artistName": "Iron Maiden",
+      "trackName": "Fear of the Dark - 2015 Remaster",
+      "playCount": 3,
+      "totalMsPlayed": 1314360
+    },
+    {
+      "artistName": "Nightwish",
+      "trackName": "Wish I Had an Angel",
+      "playCount": 6,
+      "totalMsPlayed": 1096358
+    },
+    {
+      "artistName": "Sabaton",
+      "trackName": "To Hell and Back",
+      "playCount": 1,
+      "totalMsPlayed": 206546
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Ich will",
+      "playCount": 4,
+      "totalMsPlayed": 795198
+    },
+    {
+      "artistName": "PAIN",
+      "trackName": "Party in My Head",
+      "playCount": 9,
+      "totalMsPlayed": 1529641
+    },
+    {
+      "artistName": "Lordi",
+      "trackName": "Hard Rock Hallelujah",
+      "playCount": 2,
+      "totalMsPlayed": 494400
+    },
+    {
+      "artistName": "Korn",
+      "trackName": "Word Up!",
+      "playCount": 3,
+      "totalMsPlayed": 346192
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Year Zero",
+      "playCount": 6,
+      "totalMsPlayed": 1203970
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Radio",
+      "playCount": 5,
+      "totalMsPlayed": 882774
+    },
+    {
+      "artistName": "HIM",
+      "trackName": "Wicked Game",
+      "playCount": 3,
+      "totalMsPlayed": 469206
+    },
+    {
+      "artistName": "Nightwish",
+      "trackName": "The Phantom Of The Opera",
+      "playCount": 1,
+      "totalMsPlayed": 1030
+    },
+    {
+      "artistName": "Papa Roach",
+      "trackName": "Last Resort",
+      "playCount": 1,
+      "totalMsPlayed": 199906
+    },
+    {
+      "artistName": "Serj Tankian",
+      "trackName": "Sky Is Over",
+      "playCount": 3,
+      "totalMsPlayed": 531000
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Call Me Little Sunshine",
+      "playCount": 8,
+      "totalMsPlayed": 1185202
+    },
+    {
+      "artistName": "Wind Rose",
+      "trackName": "Diggy Diggy Hole",
+      "playCount": 1,
+      "totalMsPlayed": 315986
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Ausländer",
+      "playCount": 9,
+      "totalMsPlayed": 2073195
+    },
+    {
+      "artistName": "Kataklysm",
+      "trackName": "In Shadows & Dust",
+      "playCount": 1,
+      "totalMsPlayed": 168762
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "Hail Murder",
+      "playCount": 1,
+      "totalMsPlayed": 301933
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "My Funeral",
+      "playCount": 2,
+      "totalMsPlayed": 665946
+    },
+    {
+      "artistName": "Slayer",
+      "trackName": "Raining Blood",
+      "playCount": 2,
+      "totalMsPlayed": 510372
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "My Latex Queen",
+      "playCount": 1,
+      "totalMsPlayed": 321546
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "My Dark Desires",
+      "playCount": 1,
+      "totalMsPlayed": 227000
+    },
+    {
+      "artistName": "Rotting Christ",
+      "trackName": "...Pir Threontai",
+      "playCount": 1,
+      "totalMsPlayed": 288253
+    },
+    {
+      "artistName": "Dark Funeral",
+      "trackName": "Shadows Over Transylvania - Live in South America 2003",
+      "playCount": 1,
+      "totalMsPlayed": 196213
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "G-Spot Michael",
+      "playCount": 7,
+      "totalMsPlayed": 1500713
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Haifisch",
+      "playCount": 5,
+      "totalMsPlayed": 900497
+    },
+    {
+      "artistName": "Nightwish",
+      "trackName": "Dark Chest of Wonders",
+      "playCount": 1,
+      "totalMsPlayed": 192100
+    },
+    {
+      "artistName": "Billie Eilish",
+      "trackName": "THE DINER",
+      "playCount": 1,
+      "totalMsPlayed": 47521
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Good Graces",
+      "playCount": 2,
+      "totalMsPlayed": 38855
+    },
+    {
+      "artistName": "Imagine Dragons",
+      "trackName": "Wake Up",
+      "playCount": 1,
+      "totalMsPlayed": 166706
+    },
+    {
+      "artistName": "bbno$",
+      "trackName": "it boy",
+      "playCount": 2,
+      "totalMsPlayed": 97290
+    },
+    {
+      "artistName": "Charli xcx",
+      "trackName": "Guess featuring billie eilish",
+      "playCount": 3,
+      "totalMsPlayed": 306931
+    },
+    {
+      "artistName": "Paris Paloma",
+      "trackName": "labour",
+      "playCount": 3,
+      "totalMsPlayed": 477258
+    },
+    {
+      "artistName": "Teddy Swims",
+      "trackName": "Lose Control",
+      "playCount": 3,
+      "totalMsPlayed": 587656
+    },
+    {
+      "artistName": "Damiano David",
+      "trackName": "Born With a Broken Heart",
+      "playCount": 1,
+      "totalMsPlayed": 18879
+    },
+    {
+      "artistName": "mehro",
+      "trackName": "pirate song",
+      "playCount": 1,
+      "totalMsPlayed": 20770
+    },
+    {
+      "artistName": "Olivia Rodrigo",
+      "trackName": "obsessed",
+      "playCount": 3,
+      "totalMsPlayed": 365285
+    },
+    {
+      "artistName": "Teddy Swims",
+      "trackName": "Hammer to the Heart",
+      "playCount": 1,
+      "totalMsPlayed": 42110
+    },
+    {
+      "artistName": "Arctic Monkeys",
+      "trackName": "Do I Wanna Know?",
+      "playCount": 1,
+      "totalMsPlayed": 1600
+    },
+    {
+      "artistName": "mehro",
+      "trackName": "who are you",
+      "playCount": 1,
+      "totalMsPlayed": 13000
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "BLA BLA BLA",
+      "playCount": 3,
+      "totalMsPlayed": 142940
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Losing My Religion",
+      "playCount": 1,
+      "totalMsPlayed": 281781
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Ember to Inferno",
+      "playCount": 1,
+      "totalMsPlayed": 251160
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Ascendancy",
+      "playCount": 1,
+      "totalMsPlayed": 265480
+    },
+    {
+      "artistName": "Chappell Roan",
+      "trackName": "Good Luck, Babe!",
+      "playCount": 4,
+      "totalMsPlayed": 866212
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "because i liked a boy",
+      "playCount": 2,
+      "totalMsPlayed": 392916
+    },
+    {
+      "artistName": "Taylor Swift",
+      "trackName": "I Can Do It With a Broken Heart",
+      "playCount": 2,
+      "totalMsPlayed": 107613
+    },
+    {
+      "artistName": "Ariana Grande",
+      "trackName": "the boy is mine",
+      "playCount": 1,
+      "totalMsPlayed": 111693
+    },
+    {
+      "artistName": "Chappell Roan",
+      "trackName": "HOT TO GO!",
+      "playCount": 3,
+      "totalMsPlayed": 552693
+    },
+    {
+      "artistName": "Charli xcx",
+      "trackName": "Apple",
+      "playCount": 3,
+      "totalMsPlayed": 369474
+    },
+    {
+      "artistName": "Taylor Swift",
+      "trackName": "Fortnight (feat. Post Malone)",
+      "playCount": 1,
+      "totalMsPlayed": 2170
+    },
+    {
+      "artistName": "LISA",
+      "trackName": "Rockstar",
+      "playCount": 1,
+      "totalMsPlayed": 1770
+    },
+    {
+      "artistName": "Madison Beer",
+      "trackName": "Make You Mine",
+      "playCount": 1,
+      "totalMsPlayed": 14930
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Juno",
+      "playCount": 1,
+      "totalMsPlayed": 1590
+    },
+    {
+      "artistName": "Billie Eilish",
+      "trackName": "L’AMOUR DE MA VIE",
+      "playCount": 1,
+      "totalMsPlayed": 1120
+    },
+    {
+      "artistName": "Benson Boone",
+      "trackName": "Cry",
+      "playCount": 1,
+      "totalMsPlayed": 3730
+    },
+    {
+      "artistName": "Gracie Abrams",
+      "trackName": "Close To You",
+      "playCount": 1,
+      "totalMsPlayed": 1890
+    },
+    {
+      "artistName": "Billie Eilish",
+      "trackName": "BIRDS OF A FEATHER",
+      "playCount": 1,
+      "totalMsPlayed": 9549
+    },
+    {
+      "artistName": "Ariana Grande",
+      "trackName": "we can't be friends (wait for your love)",
+      "playCount": 1,
+      "totalMsPlayed": 7290
+    },
+    {
+      "artistName": "Chappell Roan",
+      "trackName": "Femininomenon",
+      "playCount": 1,
+      "totalMsPlayed": 1100
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Die With A Smile",
+      "playCount": 2,
+      "totalMsPlayed": 23123
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Mein Element",
+      "playCount": 9,
+      "totalMsPlayed": 1804185
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Blizzard",
+      "playCount": 9,
+      "totalMsPlayed": 1392324
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Blitz und Donner",
+      "playCount": 9,
+      "totalMsPlayed": 1553907
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Supernova",
+      "playCount": 4,
+      "totalMsPlayed": 926664
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Wölfe der Nacht",
+      "playCount": 3,
+      "totalMsPlayed": 675558
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Absolutus rex",
+      "playCount": 4,
+      "totalMsPlayed": 668830
+    },
+    {
+      "artistName": "Irene Cara",
+      "trackName": "Flashdance...What a Feeling - Radio Edit",
+      "playCount": 1,
+      "totalMsPlayed": 237053
+    },
+    {
+      "artistName": "Miley Cyrus",
+      "trackName": "Flowers",
+      "playCount": 1,
+      "totalMsPlayed": 200600
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Götterdämmerung",
+      "playCount": 5,
+      "totalMsPlayed": 1087417
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Phoenix",
+      "playCount": 2,
+      "totalMsPlayed": 451440
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Wir sind Midgard",
+      "playCount": 2,
+      "totalMsPlayed": 215513
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Frei wie der Wind",
+      "playCount": 1,
+      "totalMsPlayed": 237786
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "BESTIA",
+      "playCount": 1,
+      "totalMsPlayed": 218829
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "DEUS",
+      "playCount": 1,
+      "totalMsPlayed": 174597
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "UND DIE ERDE SINGT",
+      "playCount": 1,
+      "totalMsPlayed": 256881
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "FREIHEIT",
+      "playCount": 1,
+      "totalMsPlayed": 228000
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "KHAOS",
+      "playCount": 1,
+      "totalMsPlayed": 185217
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "ÜBER BORD",
+      "playCount": 1,
+      "totalMsPlayed": 224000
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "EIS UND FEUER",
+      "playCount": 1,
+      "totalMsPlayed": 227732
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "KATHARSIS",
+      "playCount": 1,
+      "totalMsPlayed": 194208
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "UTGARD",
+      "playCount": 1,
+      "totalMsPlayed": 236734
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "DER ERSTE REGEN",
+      "playCount": 1,
+      "totalMsPlayed": 253703
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Rabenherz",
+      "playCount": 1,
+      "totalMsPlayed": 192859
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Der Mensch verdient die Erde nicht",
+      "playCount": 1,
+      "totalMsPlayed": 190405
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Leuchtfeuer",
+      "playCount": 1,
+      "totalMsPlayed": 223901
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Fimbulwinter",
+      "playCount": 1,
+      "totalMsPlayed": 262831
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Vogelfrei",
+      "playCount": 1,
+      "totalMsPlayed": 6300
+    },
+    {
+      "artistName": "Beyoncé",
+      "trackName": "Diva",
+      "playCount": 1,
+      "totalMsPlayed": 200613
+    },
+    {
+      "artistName": "Arctic Monkeys",
+      "trackName": "No. 1 Party Anthem",
+      "playCount": 1,
+      "totalMsPlayed": 243131
+    },
+    {
+      "artistName": "Tyler, The Creator",
+      "trackName": "Like Him (feat. Lola Young)",
+      "playCount": 1,
+      "totalMsPlayed": 278014
+    },
+    {
+      "artistName": "aespa",
+      "trackName": "Whiplash",
+      "playCount": 1,
+      "totalMsPlayed": 183226
+    },
+    {
+      "artistName": "Ndotz",
+      "trackName": "Embrace It",
+      "playCount": 1,
+      "totalMsPlayed": 104418
+    },
+    {
+      "artistName": "girl in red",
+      "trackName": "we fell in love in october",
+      "playCount": 1,
+      "totalMsPlayed": 184153
+    },
+    {
+      "artistName": "Daniel Caesar",
+      "trackName": "Hold Me Down",
+      "playCount": 1,
+      "totalMsPlayed": 231267
+    },
+    {
+      "artistName": "Gracie Abrams",
+      "trackName": "That’s So True",
+      "playCount": 1,
+      "totalMsPlayed": 166300
+    },
+    {
+      "artistName": "RAYE",
+      "trackName": "Oscar Winning Tears.",
+      "playCount": 1,
+      "totalMsPlayed": 183653
+    },
+    {
+      "artistName": "Snow Strippers",
+      "trackName": "Under Your Spell",
+      "playCount": 1,
+      "totalMsPlayed": 218500
+    },
+    {
+      "artistName": "Olly Alexander (Years & Years)",
+      "trackName": "Breathe",
+      "playCount": 1,
+      "totalMsPlayed": 233228
+    },
+    {
+      "artistName": "Yeah Yeah Yeahs",
+      "trackName": "Maps",
+      "playCount": 2,
+      "totalMsPlayed": 231733
+    },
+    {
+      "artistName": "Creepy Nuts",
+      "trackName": "オトノケ - Otonoke",
+      "playCount": 1,
+      "totalMsPlayed": 15934
+    },
+    {
+      "artistName": "Ariis",
+      "trackName": "FUNK DO BOUNCE (Slowed)",
+      "playCount": 1,
+      "totalMsPlayed": 48840
+    },
+    {
+      "artistName": "John + Jane Q. Public",
+      "trackName": "Watermelon",
+      "playCount": 1,
+      "totalMsPlayed": 110110
+    },
+    {
+      "artistName": "Frank Sinatra",
+      "trackName": "Somethin' Stupid",
+      "playCount": 1,
+      "totalMsPlayed": 162493
+    },
+    {
+      "artistName": "ROSÉ",
+      "trackName": "APT.",
+      "playCount": 2,
+      "totalMsPlayed": 181207
+    },
+    {
+      "artistName": "KSI",
+      "trackName": "Thick Of It (feat. Trippie Redd)",
+      "playCount": 1,
+      "totalMsPlayed": 24006
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Miasma",
+      "playCount": 1,
+      "totalMsPlayed": 201645
+    },
+    {
+      "artistName": "Billie Eilish",
+      "trackName": "LUNCH",
+      "playCount": 1,
+      "totalMsPlayed": 2700
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Bed Chem",
+      "playCount": 1,
+      "totalMsPlayed": 4050
+    },
+    {
+      "artistName": "Chappell Roan",
+      "trackName": "Pink Pony Club",
+      "playCount": 1,
+      "totalMsPlayed": 75770
+    },
+    {
+      "artistName": "Kesha",
+      "trackName": "JOYRIDE",
+      "playCount": 1,
+      "totalMsPlayed": 6680
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Ich weiß es nicht",
+      "playCount": 7,
+      "totalMsPlayed": 1740656
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Allesfresser",
+      "playCount": 11,
+      "totalMsPlayed": 2016826
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Frau & Mann",
+      "playCount": 4,
+      "totalMsPlayed": 855944
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Ach so gern",
+      "playCount": 4,
+      "totalMsPlayed": 810184
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Schlaf ein",
+      "playCount": 4,
+      "totalMsPlayed": 1236584
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Gummi",
+      "playCount": 4,
+      "totalMsPlayed": 945544
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Wer weiß das schon",
+      "playCount": 3,
+      "totalMsPlayed": 676416
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Mathematik",
+      "playCount": 2,
+      "totalMsPlayed": 428212
+    },
+    {
+      "artistName": "Lindemann",
+      "trackName": "Ach so gern - Pain Version",
+      "playCount": 2,
+      "totalMsPlayed": 456692
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Breaking News - skit",
+      "playCount": 2,
+      "totalMsPlayed": 74628
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Guilty Conscience 2",
+      "playCount": 2,
+      "totalMsPlayed": 331869
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Head Honcho",
+      "playCount": 2,
+      "totalMsPlayed": 469672
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Temporary",
+      "playCount": 2,
+      "totalMsPlayed": 595334
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Bad One",
+      "playCount": 2,
+      "totalMsPlayed": 540012
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Übers Meer - Piano Version",
+      "playCount": 2,
+      "totalMsPlayed": 214371
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Zunge",
+      "playCount": 7,
+      "totalMsPlayed": 1388180
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Altes Fleisch",
+      "playCount": 5,
+      "totalMsPlayed": 1322920
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Du hast kein Herz",
+      "playCount": 4,
+      "totalMsPlayed": 696692
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Tanzlehrerin",
+      "playCount": 2,
+      "totalMsPlayed": 523876
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Nass",
+      "playCount": 3,
+      "totalMsPlayed": 466624
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Alles für die Kinder",
+      "playCount": 2,
+      "totalMsPlayed": 459758
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Schweiss",
+      "playCount": 5,
+      "totalMsPlayed": 1205162
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Lecker",
+      "playCount": 2,
+      "totalMsPlayed": 421451
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Selbst verliebt",
+      "playCount": 2,
+      "totalMsPlayed": 760237
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Entre dos tierras",
+      "playCount": 5,
+      "totalMsPlayed": 552325
+    },
+    {
+      "artistName": "PAIN",
+      "trackName": "Eleanor Rigby",
+      "playCount": 4,
+      "totalMsPlayed": 469787
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Ich hasse Kinder",
+      "playCount": 11,
+      "totalMsPlayed": 1780356
+    },
+    {
+      "artistName": "Nightwish",
+      "trackName": "Nemo",
+      "playCount": 3,
+      "totalMsPlayed": 521809
+    },
+    {
+      "artistName": "Korpiklaani",
+      "trackName": "Ievan Polkka",
+      "playCount": 5,
+      "totalMsPlayed": 566003
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "The Beautiful People",
+      "playCount": 2,
+      "totalMsPlayed": 219448
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Guess Who’s Back - skit",
+      "playCount": 1,
+      "totalMsPlayed": 62868
+    },
+    {
+      "artistName": "Nic D",
+      "trackName": "Still Hot",
+      "playCount": 1,
+      "totalMsPlayed": 11243
+    },
+    {
+      "artistName": "Eminem",
+      "trackName": "Godzilla (feat. Juice WRLD)",
+      "playCount": 1,
+      "totalMsPlayed": 30791
+    },
+    {
+      "artistName": "Kendrick Lamar",
+      "trackName": "HUMBLE.",
+      "playCount": 2,
+      "totalMsPlayed": 63591
+    },
+    {
+      "artistName": "Lil Nas X",
+      "trackName": "MONTERO (Call Me By Your Name)",
+      "playCount": 1,
+      "totalMsPlayed": 1110
+    },
+    {
+      "artistName": "Linkin Park",
+      "trackName": "Cut the Bridge",
+      "playCount": 1,
+      "totalMsPlayed": 1820
+    },
+    {
+      "artistName": "Imagine Dragons",
+      "trackName": "Enemy (with JID) - from the series Arcane League of Legends",
+      "playCount": 2,
+      "totalMsPlayed": 174601
+    },
+    {
+      "artistName": "Jann",
+      "trackName": "Gladiator",
+      "playCount": 1,
+      "totalMsPlayed": 1450
+    },
+    {
+      "artistName": "Stromae",
+      "trackName": "Tous les mêmes",
+      "playCount": 1,
+      "totalMsPlayed": 1670
+    },
+    {
+      "artistName": "My Chemical Romance",
+      "trackName": "Welcome to the Black Parade",
+      "playCount": 1,
+      "totalMsPlayed": 311106
+    },
+    {
+      "artistName": "Sabrina Carpenter",
+      "trackName": "Looking at Me",
+      "playCount": 3,
+      "totalMsPlayed": 543360
+    },
+    {
+      "artistName": "Boney M.",
+      "trackName": "Ma Baker",
+      "playCount": 1,
+      "totalMsPlayed": 276080
+    },
+    {
+      "artistName": "Lordi",
+      "trackName": "Would You Love A Monsterman",
+      "playCount": 1,
+      "totalMsPlayed": 182160
+    },
+    {
+      "artistName": "Poets of the Fall",
+      "trackName": "Carnival of Rust",
+      "playCount": 1,
+      "totalMsPlayed": 262946
+    },
+    {
+      "artistName": "DragonForce",
+      "trackName": "Through The Fire And Flames",
+      "playCount": 1,
+      "totalMsPlayed": 439120
+    },
+    {
+      "artistName": "Billy Joel",
+      "trackName": "My Life",
+      "playCount": 1,
+      "totalMsPlayed": 284000
+    },
+    {
+      "artistName": "Elton John",
+      "trackName": "I'm Still Standing",
+      "playCount": 1,
+      "totalMsPlayed": 183440
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "playCount": 1,
+      "totalMsPlayed": 292613
+    },
+    {
+      "artistName": "Slayer",
+      "trackName": "Delusions of Saviour",
+      "playCount": 1,
+      "totalMsPlayed": 115413
+    },
+    {
+      "artistName": "Linkin Park",
+      "trackName": "Numb",
+      "playCount": 1,
+      "totalMsPlayed": 187520
+    },
+    {
+      "artistName": "Metallica",
+      "trackName": "Whiskey In The Jar",
+      "playCount": 2,
+      "totalMsPlayed": 609386
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Scattering The Ashes",
+      "playCount": 1,
+      "totalMsPlayed": 204570
+    },
+    {
+      "artistName": "Green Day",
+      "trackName": "American Idiot",
+      "playCount": 1,
+      "totalMsPlayed": 176346
+    },
+    {
+      "artistName": "The Rolling Stones",
+      "trackName": "Paint It, Black",
+      "playCount": 2,
+      "totalMsPlayed": 404532
+    },
+    {
+      "artistName": "System Of A Down",
+      "trackName": "Toxicity",
+      "playCount": 2,
+      "totalMsPlayed": 437866
+    },
+    {
+      "artistName": "Metallica",
+      "trackName": "Lux Æterna",
+      "playCount": 2,
+      "totalMsPlayed": 202753
+    },
+    {
+      "artistName": "Bon Jovi",
+      "trackName": "You Give Love A Bad Name",
+      "playCount": 1,
+      "totalMsPlayed": 222706
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "A Gunshot to the Head of Trepidation",
+      "playCount": 2,
+      "totalMsPlayed": 710640
+    },
+    {
+      "artistName": "Nirvana",
+      "trackName": "Serve The Servants",
+      "playCount": 2,
+      "totalMsPlayed": 404
+    },
+    {
+      "artistName": "Manowar",
+      "trackName": "Call to Arms",
+      "playCount": 4,
+      "totalMsPlayed": 27073
+    },
+    {
+      "artistName": "Evanescence",
+      "trackName": "Call Me When You're Sober",
+      "playCount": 1,
+      "totalMsPlayed": 180
+    },
+    {
+      "artistName": "Dynazty",
+      "trackName": "Presence of Mind",
+      "playCount": 1,
+      "totalMsPlayed": 234
+    },
+    {
+      "artistName": "Rob Zombie",
+      "trackName": "Dragula",
+      "playCount": 19,
+      "totalMsPlayed": 3144857
+    },
+    {
+      "artistName": "Manowar",
+      "trackName": "Hand of Doom",
+      "playCount": 1,
+      "totalMsPlayed": 38002
+    },
+    {
+      "artistName": "Manowar",
+      "trackName": "Warriors of the World United",
+      "playCount": 1,
+      "totalMsPlayed": 351217
+    },
+    {
+      "artistName": "Manowar",
+      "trackName": "Fight Until We Die",
+      "playCount": 1,
+      "totalMsPlayed": 3780
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Dicke Titten",
+      "playCount": 5,
+      "totalMsPlayed": 791116
+    },
+    {
+      "artistName": "Linkin Park",
+      "trackName": "Over Each Other",
+      "playCount": 2,
+      "totalMsPlayed": 340890
+    },
+    {
+      "artistName": "Jagwar Twin",
+      "trackName": "Bad Feeling (Oompa Loompa)",
+      "playCount": 12,
+      "totalMsPlayed": 1529962
+    },
+    {
+      "artistName": "Yaelokre",
+      "trackName": "Harpy Hare",
+      "playCount": 1,
+      "totalMsPlayed": 124850
+    },
+    {
+      "artistName": "Psychostick",
+      "trackName": "Numbers (I Can Only Count to Four)",
+      "playCount": 1,
+      "totalMsPlayed": 43720
+    },
+    {
+      "artistName": "Good Charlotte",
+      "trackName": "The Anthem",
+      "playCount": 1,
+      "totalMsPlayed": 175093
+    },
+    {
+      "artistName": "All Time Low",
+      "trackName": "Dear Maria, Count Me In",
+      "playCount": 1,
+      "totalMsPlayed": 169916
+    },
+    {
+      "artistName": "Sum 41",
+      "trackName": "Still Waiting",
+      "playCount": 1,
+      "totalMsPlayed": 12300
+    },
+    {
+      "artistName": "Joost",
+      "trackName": "Europapa",
+      "playCount": 1,
+      "totalMsPlayed": 160218
+    },
+    {
+      "artistName": "Fall Out Boy",
+      "trackName": "Dance, Dance",
+      "playCount": 1,
+      "totalMsPlayed": 180266
+    },
+    {
+      "artistName": "Falling In Reverse",
+      "trackName": "The Drug In Me Is You",
+      "playCount": 11,
+      "totalMsPlayed": 2212773
+    },
+    {
+      "artistName": "Simple Plan",
+      "trackName": "I'm Just a Kid",
+      "playCount": 13,
+      "totalMsPlayed": 2438749
+    },
+    {
+      "artistName": "Kate Bush",
+      "trackName": "Army Dreamers - 2018 Remaster",
+      "playCount": 1,
+      "totalMsPlayed": 26664
+    },
+    {
+      "artistName": "The Cramps",
+      "trackName": "Goo Goo Muck",
+      "playCount": 1,
+      "totalMsPlayed": 10310
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Mann gegen Mann",
+      "playCount": 2,
+      "totalMsPlayed": 461120
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Keine Lust",
+      "playCount": 3,
+      "totalMsPlayed": 668799
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "This Is The New Shit",
+      "playCount": 3,
+      "totalMsPlayed": 778998
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "One Assassination Under God",
+      "playCount": 1,
+      "totalMsPlayed": 328332
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Sweet Dreams (Are Made Of This)",
+      "playCount": 3,
+      "totalMsPlayed": 505131
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "No Funeral Without Applause",
+      "playCount": 1,
+      "totalMsPlayed": 246895
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "The Fight Song",
+      "playCount": 1,
+      "totalMsPlayed": 175760
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Tainted Love",
+      "playCount": 1,
+      "totalMsPlayed": 200426
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "The Dope Show",
+      "playCount": 1,
+      "totalMsPlayed": 226733
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Nod If You Understand",
+      "playCount": 1,
+      "totalMsPlayed": 245275
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "The Nobodies",
+      "playCount": 1,
+      "totalMsPlayed": 215426
+    },
+    {
+      "artistName": "Rob Zombie",
+      "trackName": "Helter Skelter",
+      "playCount": 1,
+      "totalMsPlayed": 215937
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Death Is Not A Costume",
+      "playCount": 1,
+      "totalMsPlayed": 292811
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Disposable Teens",
+      "playCount": 1,
+      "totalMsPlayed": 181506
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Personal Jesus",
+      "playCount": 1,
+      "totalMsPlayed": 246680
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Rock Is Dead",
+      "playCount": 1,
+      "totalMsPlayed": 189760
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Meet Me In Purgatory",
+      "playCount": 1,
+      "totalMsPlayed": 276556
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Tourniquet",
+      "playCount": 1,
+      "totalMsPlayed": 269000
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "KILL4ME",
+      "playCount": 1,
+      "totalMsPlayed": 239240
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Coma White",
+      "playCount": 1,
+      "totalMsPlayed": 338200
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "Sacrilegious",
+      "playCount": 1,
+      "totalMsPlayed": 215669
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "mOBSCENE",
+      "playCount": 1,
+      "totalMsPlayed": 201676
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "trackName": "God's Gonna Cut You Down",
+      "playCount": 1,
+      "totalMsPlayed": 16020
+    },
+    {
+      "artistName": "Avril Lavigne",
+      "trackName": "Bad Girl (feat. Marilyn Manson)",
+      "playCount": 1,
+      "totalMsPlayed": 9490
+    },
+    {
+      "artistName": "Johnny Cash",
+      "trackName": "Hurt",
+      "playCount": 1,
+      "totalMsPlayed": 216533
+    },
+    {
+      "artistName": "Johnny Cash",
+      "trackName": "Ring of Fire",
+      "playCount": 1,
+      "totalMsPlayed": 158426
+    },
+    {
+      "artistName": "The Highwaymen",
+      "trackName": "Highwayman",
+      "playCount": 1,
+      "totalMsPlayed": 62643
+    },
+    {
+      "artistName": "Johnny Cash",
+      "trackName": "I Walk The Line - Single Version",
+      "playCount": 1,
+      "totalMsPlayed": 163045
+    },
+    {
+      "artistName": "Johnny Cash",
+      "trackName": "God's Gonna Cut You Down",
+      "playCount": 1,
+      "totalMsPlayed": 158573
+    },
+    {
+      "artistName": "Johnny Cash",
+      "trackName": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "playCount": 1,
+      "totalMsPlayed": 162653
+    },
+    {
+      "artistName": "Johnny Cash",
+      "trackName": "I Walk the Line",
+      "playCount": 1,
+      "totalMsPlayed": 176533
+    },
+    {
+      "artistName": "Bob Dylan",
+      "trackName": "Girl from the North Country",
+      "playCount": 1,
+      "totalMsPlayed": 220400
+    },
+    {
+      "artistName": "Johnny Cash",
+      "trackName": "Jackson",
+      "playCount": 1,
+      "totalMsPlayed": 160304
+    },
+    {
+      "artistName": "Iron Maiden",
+      "trackName": "Run to the Hills - 2015 Remaster",
+      "playCount": 1,
+      "totalMsPlayed": 233506
+    },
+    {
+      "artistName": "Judas Priest",
+      "trackName": "Breaking the Law",
+      "playCount": 1,
+      "totalMsPlayed": 153840
+    },
+    {
+      "artistName": "Muse",
+      "trackName": "Uprising",
+      "playCount": 2,
+      "totalMsPlayed": 609680
+    },
+    {
+      "artistName": "Twisted Sister",
+      "trackName": "We're Not Gonna Take It - 2024 Remaster",
+      "playCount": 1,
+      "totalMsPlayed": 219959
+    },
+    {
+      "artistName": "Billy Idol",
+      "trackName": "Rebel Yell",
+      "playCount": 1,
+      "totalMsPlayed": 288533
+    },
+    {
+      "artistName": "Ozzy Osbourne",
+      "trackName": "Crazy Train",
+      "playCount": 1,
+      "totalMsPlayed": 292706
+    },
+    {
+      "artistName": "Foo Fighters",
+      "trackName": "The Pretender",
+      "playCount": 1,
+      "totalMsPlayed": 269373
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Rats",
+      "playCount": 3,
+      "totalMsPlayed": 523329
+    },
+    {
+      "artistName": "Dio",
+      "trackName": "Holy Diver",
+      "playCount": 1,
+      "totalMsPlayed": 340640
+    },
+    {
+      "artistName": "Black Sabbath",
+      "trackName": "Paranoid - 2009 Remaster",
+      "playCount": 2,
+      "totalMsPlayed": 335440
+    },
+    {
+      "artistName": "Scorpions",
+      "trackName": "Rock You Like a Hurricane - 2011",
+      "playCount": 1,
+      "totalMsPlayed": 255573
+    },
+    {
+      "artistName": "Muse",
+      "trackName": "Psycho",
+      "playCount": 2,
+      "totalMsPlayed": 633434
+    },
+    {
+      "artistName": "Deep Purple",
+      "trackName": "Smoke On The Water - Remastered 2012",
+      "playCount": 1,
+      "totalMsPlayed": 340742
+    },
+    {
+      "artistName": "Guns N' Roses",
+      "trackName": "Paradise City",
+      "playCount": 1,
+      "totalMsPlayed": 405600
+    },
+    {
+      "artistName": "Slash",
+      "trackName": "Anastasia",
+      "playCount": 1,
+      "totalMsPlayed": 367280
+    },
+    {
+      "artistName": "Dio",
+      "trackName": "Rainbow In The Dark",
+      "playCount": 2,
+      "totalMsPlayed": 505386
+    },
+    {
+      "artistName": "Serj Tankian",
+      "trackName": "Empty Walls",
+      "playCount": 2,
+      "totalMsPlayed": 460052
+    },
+    {
+      "artistName": "Iron Maiden",
+      "trackName": "The Number of the Beast - 2015 Remaster",
+      "playCount": 1,
+      "totalMsPlayed": 290586
+    },
+    {
+      "artistName": "Metallica",
+      "trackName": "Enter Sandman",
+      "playCount": 2,
+      "totalMsPlayed": 662532
+    },
+    {
+      "artistName": "ZZ Top",
+      "trackName": "Sharp Dressed Man (2008 Remaster)",
+      "playCount": 1,
+      "totalMsPlayed": 258026
+    },
+    {
+      "artistName": "Airbourne",
+      "trackName": "Runnin' Wild",
+      "playCount": 1,
+      "totalMsPlayed": 222240
+    },
+    {
+      "artistName": "The Offspring",
+      "trackName": "Pretty Fly (For A White Guy)",
+      "playCount": 1,
+      "totalMsPlayed": 181199
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Sport Frei",
+      "playCount": 3,
+      "totalMsPlayed": 758610
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Still Counting",
+      "playCount": 4,
+      "totalMsPlayed": 785439
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "A Warrior's Call",
+      "playCount": 5,
+      "totalMsPlayed": 1039426
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Lola Montez",
+      "playCount": 3,
+      "totalMsPlayed": 762086
+    },
+    {
+      "artistName": "Lord Of The Lost",
+      "trackName": "Blood & Glitter",
+      "playCount": 1,
+      "totalMsPlayed": 3250
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Giftig",
+      "playCount": 7,
+      "totalMsPlayed": 760212
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "In Waves",
+      "playCount": 1,
+      "totalMsPlayed": 302466
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Until the World Goes Cold",
+      "playCount": 1,
+      "totalMsPlayed": 321161
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "The Sin and the Sentence",
+      "playCount": 1,
+      "totalMsPlayed": 349869
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Pull Harder on the Strings of Your Martyr",
+      "playCount": 1,
+      "totalMsPlayed": 291213
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Catastrophist",
+      "playCount": 2,
+      "totalMsPlayed": 776070
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Beyond Oblivion",
+      "playCount": 1,
+      "totalMsPlayed": 316666
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Feast Of Fire",
+      "playCount": 1,
+      "totalMsPlayed": 258837
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Rain",
+      "playCount": 1,
+      "totalMsPlayed": 251826
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "What The Dead Men Say",
+      "playCount": 1,
+      "totalMsPlayed": 285522
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Silence in the Snow",
+      "playCount": 1,
+      "totalMsPlayed": 220416
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "In The Court Of The Dragon",
+      "playCount": 1,
+      "totalMsPlayed": 309029
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Like Light to the Flies",
+      "playCount": 1,
+      "totalMsPlayed": 340626
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Built to Fall",
+      "playCount": 1,
+      "totalMsPlayed": 188186
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Endless Night",
+      "playCount": 1,
+      "totalMsPlayed": 218400
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Like A Sword Over Damocles",
+      "playCount": 1,
+      "totalMsPlayed": 330126
+    },
+    {
+      "artistName": "Trivium",
+      "trackName": "Throes of Perdition",
+      "playCount": 1,
+      "totalMsPlayed": 173166
+    },
+    {
+      "artistName": "Muse",
+      "trackName": "Hysteria",
+      "playCount": 1,
+      "totalMsPlayed": 227023
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "For Evigt",
+      "playCount": 2,
+      "totalMsPlayed": 405554
+    },
+    {
+      "artistName": "Avatar",
+      "trackName": "The Dirt I'm Buried In",
+      "playCount": 2,
+      "totalMsPlayed": 245480
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Darkness At The Heart Of My Love",
+      "playCount": 4,
+      "totalMsPlayed": 895977
+    },
+    {
+      "artistName": "The 69 Eyes",
+      "trackName": "Burn Witch Burn",
+      "playCount": 1,
+      "totalMsPlayed": 177553
+    },
+    {
+      "artistName": "Emigrate",
+      "trackName": "1234",
+      "playCount": 3,
+      "totalMsPlayed": 406027
+    },
+    {
+      "artistName": "Zaz",
+      "trackName": "Le jardin des larmes (feat. Till Lindemann)",
+      "playCount": 3,
+      "totalMsPlayed": 253583
+    },
+    {
+      "artistName": "Till Lindemann",
+      "trackName": "Любимый город",
+      "playCount": 2,
+      "totalMsPlayed": 152568
+    },
+    {
+      "artistName": "David Garrett",
+      "trackName": "Alle Tage ist kein Sonntag - Classical Version",
+      "playCount": 1,
+      "totalMsPlayed": 155820
+    },
+    {
+      "artistName": "Emigrate",
+      "trackName": "Hypothetical",
+      "playCount": 2,
+      "totalMsPlayed": 230373
+    },
+    {
+      "artistName": "Korpiklaani",
+      "trackName": "Bier Bier - Germany",
+      "playCount": 2,
+      "totalMsPlayed": 155878
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Was ich liebe",
+      "playCount": 3,
+      "totalMsPlayed": 757269
+    },
+    {
+      "artistName": "Leslie Odom Jr.",
+      "trackName": "Alexander Hamilton",
+      "playCount": 1,
+      "totalMsPlayed": 235753
+    },
+    {
+      "artistName": "Lin-Manuel Miranda",
+      "trackName": "Aaron Burr, Sir",
+      "playCount": 1,
+      "totalMsPlayed": 155635
+    },
+    {
+      "artistName": "Lin-Manuel Miranda",
+      "trackName": "My Shot",
+      "playCount": 1,
+      "totalMsPlayed": 332155
+    },
+    {
+      "artistName": "Lin-Manuel Miranda",
+      "trackName": "The Story of Tonight",
+      "playCount": 1,
+      "totalMsPlayed": 90991
+    },
+    {
+      "artistName": "Renée Elise Goldsberry",
+      "trackName": "The Schuyler Sisters",
+      "playCount": 1,
+      "totalMsPlayed": 185550
+    },
+    {
+      "artistName": "Thayne Jasperson",
+      "trackName": "Farmer Refuted",
+      "playCount": 1,
+      "totalMsPlayed": 111747
+    },
+    {
+      "artistName": "Jonathan Groff",
+      "trackName": "You'll Be Back",
+      "playCount": 1,
+      "totalMsPlayed": 207335
+    },
+    {
+      "artistName": "Lin-Manuel Miranda",
+      "trackName": "Right Hand Man",
+      "playCount": 1,
+      "totalMsPlayed": 320703
+    },
+    {
+      "artistName": "Leslie Odom Jr.",
+      "trackName": "A Winter's Ball",
+      "playCount": 1,
+      "totalMsPlayed": 68917
+    },
+    {
+      "artistName": "Phillipa Soo",
+      "trackName": "Helpless",
+      "playCount": 1,
+      "totalMsPlayed": 248786
+    },
+    {
+      "artistName": "Renée Elise Goldsberry",
+      "trackName": "Satisfied",
+      "playCount": 1,
+      "totalMsPlayed": 328235
+    },
+    {
+      "artistName": "Okieriete Onaodowan",
+      "trackName": "The Story of Tonight - Reprise",
+      "playCount": 1,
+      "totalMsPlayed": 114887
+    },
+    {
+      "artistName": "Leslie Odom Jr.",
+      "trackName": "Wait for It",
+      "playCount": 1,
+      "totalMsPlayed": 192757
+    },
+    {
+      "artistName": "Original Broadway Cast of Hamilton",
+      "trackName": "Stay Alive",
+      "playCount": 1,
+      "totalMsPlayed": 158118
+    },
+    {
+      "artistName": "Lin-Manuel Miranda",
+      "trackName": "Ten Duel Commandments",
+      "playCount": 1,
+      "totalMsPlayed": 105655
+    },
+    {
+      "artistName": "Lin-Manuel Miranda",
+      "trackName": "Meet Me Inside",
+      "playCount": 1,
+      "totalMsPlayed": 82639
+    },
+    {
+      "artistName": "Phillipa Soo",
+      "trackName": "That Would Be Enough",
+      "playCount": 1,
+      "totalMsPlayed": 177446
+    },
+    {
+      "artistName": "Leslie Odom Jr.",
+      "trackName": "Guns and Ships",
+      "playCount": 1,
+      "totalMsPlayed": 126591
+    },
+    {
+      "artistName": "Christopher Jackson",
+      "trackName": "History Has Its Eyes on You",
+      "playCount": 1,
+      "totalMsPlayed": 96053
+    },
+    {
+      "artistName": "Original Broadway Cast of Hamilton",
+      "trackName": "Yorktown (The World Turned Upside Down)",
+      "playCount": 1,
+      "totalMsPlayed": 241602
+    },
+    {
+      "artistName": "Jonathan Groff",
+      "trackName": "What Comes Next?",
+      "playCount": 1,
+      "totalMsPlayed": 98344
+    },
+    {
+      "artistName": "Leslie Odom Jr.",
+      "trackName": "Dear Theodosia",
+      "playCount": 1,
+      "totalMsPlayed": 183021
+    },
+    {
+      "artistName": "Leslie Odom Jr.",
+      "trackName": "Non-Stop",
+      "playCount": 1,
+      "totalMsPlayed": 385438
+    },
+    {
+      "artistName": "Daveed Diggs",
+      "trackName": "What'd I Miss",
+      "playCount": 1,
+      "totalMsPlayed": 235718
+    },
+    {
+      "artistName": "Christopher Jackson",
+      "trackName": "Cabinet Battle #1",
+      "playCount": 1,
+      "totalMsPlayed": 214227
+    },
+    {
+      "artistName": "Phillipa Soo",
+      "trackName": "Take a Break",
+      "playCount": 1,
+      "totalMsPlayed": 285490
+    },
+    {
+      "artistName": "Jasmine Cephas-Jones",
+      "trackName": "Say No to This",
+      "playCount": 1,
+      "totalMsPlayed": 241035
+    },
+    {
+      "artistName": "Leslie Odom Jr.",
+      "trackName": "The Room Where It Happens",
+      "playCount": 1,
+      "totalMsPlayed": 317227
+    },
+    {
+      "artistName": "Phillipa Soo",
+      "trackName": "Schuyler Defeated",
+      "playCount": 1,
+      "totalMsPlayed": 62562
+    },
+    {
+      "artistName": "Christopher Jackson",
+      "trackName": "Cabinet Battle #2",
+      "playCount": 1,
+      "totalMsPlayed": 141644
+    },
+    {
+      "artistName": "Leslie Odom Jr.",
+      "trackName": "Washington on Your Side",
+      "playCount": 1,
+      "totalMsPlayed": 180484
+    },
+    {
+      "artistName": "Christopher Jackson",
+      "trackName": "One Last Time",
+      "playCount": 1,
+      "totalMsPlayed": 295397
+    },
+    {
+      "artistName": "Jonathan Groff",
+      "trackName": "I Know Him",
+      "playCount": 1,
+      "totalMsPlayed": 96999
+    },
+    {
+      "artistName": "Original Broadway Cast of Hamilton",
+      "trackName": "The Adams Administration",
+      "playCount": 1,
+      "totalMsPlayed": 24219
+    },
+    {
+      "artistName": "Dove Cameron",
+      "trackName": "Breakfast",
+      "playCount": 2,
+      "totalMsPlayed": 175269
+    },
+    {
+      "artistName": "Olivia Rodrigo",
+      "trackName": "brutal",
+      "playCount": 2,
+      "totalMsPlayed": 184496
+    },
+    {
+      "artistName": "Mother Mother",
+      "trackName": "Hayloft II",
+      "playCount": 2,
+      "totalMsPlayed": 216910
+    },
+    {
+      "artistName": "MARINA",
+      "trackName": "Bubblegum Bitch",
+      "playCount": 2,
+      "totalMsPlayed": 208596
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Mary On A Cross",
+      "playCount": 17,
+      "totalMsPlayed": 3644306
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Kiss The Go-Goat",
+      "playCount": 6,
+      "totalMsPlayed": 1045141
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Angst",
+      "playCount": 4,
+      "totalMsPlayed": 899204
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Morgenstern",
+      "playCount": 2,
+      "totalMsPlayed": 240379
+    },
+    {
+      "artistName": "Eisbrecher",
+      "trackName": "Was ist hier los?",
+      "playCount": 2,
+      "totalMsPlayed": 215129
+    },
+    {
+      "artistName": "Megaherz",
+      "trackName": "Jagdzeit",
+      "playCount": 1,
+      "totalMsPlayed": 203993
+    },
+    {
+      "artistName": "PAIN",
+      "trackName": "Call Me",
+      "playCount": 2,
+      "totalMsPlayed": 71146
+    },
+    {
+      "artistName": "Panic! At The Disco",
+      "trackName": "House of Memories",
+      "playCount": 2,
+      "totalMsPlayed": 417412
+    },
+    {
+      "artistName": "Muse",
+      "trackName": "Supermassive Black Hole",
+      "playCount": 1,
+      "totalMsPlayed": 47347
+    },
+    {
+      "artistName": "Nickelback",
+      "trackName": "She Keeps Me Up",
+      "playCount": 1,
+      "totalMsPlayed": 109833
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Sonne",
+      "playCount": 4,
+      "totalMsPlayed": 817320
+    },
+    {
+      "artistName": "YUNGBLUD",
+      "trackName": "parents",
+      "playCount": 1,
+      "totalMsPlayed": 159318
+    },
+    {
+      "artistName": "League of Legends",
+      "trackName": "GODS",
+      "playCount": 1,
+      "totalMsPlayed": 15960
+    },
+    {
+      "artistName": "Imagine Dragons",
+      "trackName": "Bones",
+      "playCount": 3,
+      "totalMsPlayed": 280090
+    },
+    {
+      "artistName": "Linkin Park",
+      "trackName": "Fighting Myself",
+      "playCount": 1,
+      "totalMsPlayed": 185030
+    },
+    {
+      "artistName": "Arcane",
+      "trackName": "Paint The Town Blue (from the series Arcane League of Legends)",
+      "playCount": 1,
+      "totalMsPlayed": 113553
+    },
+    {
+      "artistName": "Woodkid",
+      "trackName": "To Ashes and Blood (from the series Arcane League of Legends)",
+      "playCount": 1,
+      "totalMsPlayed": 227572
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Deutschland",
+      "playCount": 3,
+      "totalMsPlayed": 644678
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Engel",
+      "playCount": 3,
+      "totalMsPlayed": 529894
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Armee der Tristen",
+      "playCount": 3,
+      "totalMsPlayed": 616767
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Feuer frei!",
+      "playCount": 2,
+      "totalMsPlayed": 377200
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Du riechst so gut",
+      "playCount": 2,
+      "totalMsPlayed": 583320
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Zeig dich",
+      "playCount": 4,
+      "totalMsPlayed": 767738
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Asche zu Asche",
+      "playCount": 2,
+      "totalMsPlayed": 462898
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Ohne dich",
+      "playCount": 2,
+      "totalMsPlayed": 542346
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Waidmanns Heil",
+      "playCount": 2,
+      "totalMsPlayed": 425600
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Rein raus",
+      "playCount": 2,
+      "totalMsPlayed": 379946
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Zeit",
+      "playCount": 2,
+      "totalMsPlayed": 643372
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Mein Teil",
+      "playCount": 2,
+      "totalMsPlayed": 544826
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Zick Zack",
+      "playCount": 3,
+      "totalMsPlayed": 733095
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Puppe",
+      "playCount": 2,
+      "totalMsPlayed": 316111
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "The Future Is A Foreign Land",
+      "playCount": 2,
+      "totalMsPlayed": 393077
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Jesus He Knows Me",
+      "playCount": 2,
+      "totalMsPlayed": 306220
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Life Eternal",
+      "playCount": 1,
+      "totalMsPlayed": 207120
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Cirice",
+      "playCount": 1,
+      "totalMsPlayed": 362093
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "If You Have Ghosts",
+      "playCount": 1,
+      "totalMsPlayed": 214880
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Hunter’s Moon",
+      "playCount": 1,
+      "totalMsPlayed": 196106
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Ritual",
+      "playCount": 2,
+      "totalMsPlayed": 269059
+    },
+    {
+      "artistName": "Ghost",
+      "trackName": "Stay [Feat. Patrick Wilson]",
+      "playCount": 1,
+      "totalMsPlayed": 58644
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Shotgun Blues",
+      "playCount": 2,
+      "totalMsPlayed": 535652
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Guitar Gangsters & Cadillac Blood",
+      "playCount": 2,
+      "totalMsPlayed": 188853
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "I Only Wanna Be With You",
+      "playCount": 2,
+      "totalMsPlayed": 165086
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "The Devil's Bleeding Crown",
+      "playCount": 2,
+      "totalMsPlayed": 238653
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Wait A Minute My Girl",
+      "playCount": 1,
+      "totalMsPlayed": 140053
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Fallen",
+      "playCount": 1,
+      "totalMsPlayed": 300093
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Maybellene I Hofteholder",
+      "playCount": 1,
+      "totalMsPlayed": 200826
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Black Rose",
+      "playCount": 1,
+      "totalMsPlayed": 235306
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Sad Man's Tongue",
+      "playCount": 1,
+      "totalMsPlayed": 135266
+    },
+    {
+      "artistName": "Taylor Swift",
+      "trackName": "Don’t Blame Me",
+      "playCount": 1,
+      "totalMsPlayed": 25619
+    },
+    {
+      "artistName": "Olivia Rodrigo",
+      "trackName": "vampire",
+      "playCount": 2,
+      "totalMsPlayed": 220557
+    },
+    {
+      "artistName": "Dove Cameron",
+      "trackName": "Boyfriend",
+      "playCount": 1,
+      "totalMsPlayed": 39669
+    },
+    {
+      "artistName": "5 Seconds of Summer",
+      "trackName": "Teeth",
+      "playCount": 1,
+      "totalMsPlayed": 68156
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Bloody Mary",
+      "playCount": 2,
+      "totalMsPlayed": 245493
+    },
+    {
+      "artistName": "Katy Perry",
+      "trackName": "I Kissed A Girl",
+      "playCount": 2,
+      "totalMsPlayed": 359280
+    },
+    {
+      "artistName": "Beach Weather",
+      "trackName": "Sex, Drugs, Etc.",
+      "playCount": 2,
+      "totalMsPlayed": 393568
+    },
+    {
+      "artistName": "Olivia Rodrigo",
+      "trackName": "jealousy, jealousy",
+      "playCount": 1,
+      "totalMsPlayed": 94722
+    },
+    {
+      "artistName": "Leah Kate",
+      "trackName": "10 Things I Hate About You",
+      "playCount": 1,
+      "totalMsPlayed": 157138
+    },
+    {
+      "artistName": "Jagwar Twin",
+      "trackName": "Happy Face",
+      "playCount": 1,
+      "totalMsPlayed": 169760
+    },
+    {
+      "artistName": "Bo Burnham",
+      "trackName": "1985",
+      "playCount": 1,
+      "totalMsPlayed": 65685
+    },
+    {
+      "artistName": "Bo Burnham",
+      "trackName": "Welcome to The Internet",
+      "playCount": 2,
+      "totalMsPlayed": 551998
+    },
+    {
+      "artistName": "Bo Burnham",
+      "trackName": "Look Who’s Inside Again",
+      "playCount": 2,
+      "totalMsPlayed": 100065
+    },
+    {
+      "artistName": "Bo Burnham",
+      "trackName": "Bezos I",
+      "playCount": 1,
+      "totalMsPlayed": 58149
+    },
+    {
+      "artistName": "Bo Burnham",
+      "trackName": "Goodbye",
+      "playCount": 2,
+      "totalMsPlayed": 51847
+    },
+    {
+      "artistName": "The Pretty Reckless",
+      "trackName": "Make Me Wanna Die",
+      "playCount": 2,
+      "totalMsPlayed": 246143
+    },
+    {
+      "artistName": "Rob Zombie",
+      "trackName": "Living Dead Girl",
+      "playCount": 2,
+      "totalMsPlayed": 17339
+    },
+    {
+      "artistName": "Rob Zombie",
+      "trackName": "Superbeast",
+      "playCount": 1,
+      "totalMsPlayed": 1683
+    },
+    {
+      "artistName": "Apocalyptica",
+      "trackName": "I Don't Care",
+      "playCount": 1,
+      "totalMsPlayed": 65040
+    },
+    {
+      "artistName": "Limp Bizkit",
+      "trackName": "Break Stuff",
+      "playCount": 1,
+      "totalMsPlayed": 4113
+    },
+    {
+      "artistName": "HammerFall",
+      "trackName": "Hearts on Fire",
+      "playCount": 1,
+      "totalMsPlayed": 231386
+    },
+    {
+      "artistName": "Disturbed",
+      "trackName": "Down with the Sickness",
+      "playCount": 1,
+      "totalMsPlayed": 279213
+    },
+    {
+      "artistName": "Rob Zombie",
+      "trackName": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+      "playCount": 1,
+      "totalMsPlayed": 247040
+    },
+    {
+      "artistName": "Avenged Sevenfold",
+      "trackName": "Hail to the King",
+      "playCount": 1,
+      "totalMsPlayed": 305906
+    },
+    {
+      "artistName": "Christopher Lee",
+      "trackName": "The Portent",
+      "playCount": 1,
+      "totalMsPlayed": 14383
+    },
+    {
+      "artistName": "Helloween",
+      "trackName": "I Want Out - 2024 Remaster",
+      "playCount": 1,
+      "totalMsPlayed": 130331
+    },
+    {
+      "artistName": "Christopher Lee",
+      "trackName": "Massacre of the Saxons",
+      "playCount": 1,
+      "totalMsPlayed": 124703
+    },
+    {
+      "artistName": "Marduk",
+      "trackName": "Werwolf",
+      "playCount": 1,
+      "totalMsPlayed": 122880
+    },
+    {
+      "artistName": "Dimmu Borgir",
+      "trackName": "Puritania",
+      "playCount": 1,
+      "totalMsPlayed": 186488
+    },
+    {
+      "artistName": "Immortal",
+      "trackName": "Tyrants",
+      "playCount": 1,
+      "totalMsPlayed": 376906
+    },
+    {
+      "artistName": "Nile",
+      "trackName": "Permitting the Noble Dead to Descend to the Underworld",
+      "playCount": 1,
+      "totalMsPlayed": 21824
+    },
+    {
+      "artistName": "Kataklysm",
+      "trackName": "At the Edge of the World",
+      "playCount": 1,
+      "totalMsPlayed": 215113
+    },
+    {
+      "artistName": "Palaye Royale",
+      "trackName": "Lonely",
+      "playCount": 1,
+      "totalMsPlayed": 7453
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Adieu",
+      "playCount": 1,
+      "totalMsPlayed": 278211
+    },
+    {
+      "artistName": "Muse",
+      "trackName": "Won’t Stand Down",
+      "playCount": 1,
+      "totalMsPlayed": 164452
+    },
+    {
+      "artistName": "System Of A Down",
+      "trackName": "Chop Suey!",
+      "playCount": 1,
+      "totalMsPlayed": 210240
+    },
+    {
+      "artistName": "Palaye Royale",
+      "trackName": "Mr. Doctor Man",
+      "playCount": 1,
+      "totalMsPlayed": 54750
+    },
+    {
+      "artistName": "Green Day",
+      "trackName": "Holiday",
+      "playCount": 1,
+      "totalMsPlayed": 232826
+    },
+    {
+      "artistName": "Måneskin",
+      "trackName": "GASOLINE",
+      "playCount": 1,
+      "totalMsPlayed": 221062
+    },
+    {
+      "artistName": "The Offspring",
+      "trackName": "You're Gonna Go Far, Kid",
+      "playCount": 1,
+      "totalMsPlayed": 177826
+    },
+    {
+      "artistName": "Muse",
+      "trackName": "You Make Me Feel Like It’s Halloween",
+      "playCount": 1,
+      "totalMsPlayed": 59299
+    },
+    {
+      "artistName": "Palaye Royale",
+      "trackName": "No Love In LA",
+      "playCount": 1,
+      "totalMsPlayed": 31900
+    },
+    {
+      "artistName": "Metallica",
+      "trackName": "Master Of Puppets",
+      "playCount": 1,
+      "totalMsPlayed": 515386
+    },
+    {
+      "artistName": "The Rasmus",
+      "trackName": "In the Shadows",
+      "playCount": 1,
+      "totalMsPlayed": 257920
+    },
+    {
+      "artistName": "Five Finger Death Punch",
+      "trackName": "Bad Company",
+      "playCount": 1,
+      "totalMsPlayed": 94933
+    },
+    {
+      "artistName": "Emigrate",
+      "trackName": "FREEZE MY MIND",
+      "playCount": 1,
+      "totalMsPlayed": 12813
+    },
+    {
+      "artistName": "Avatar",
+      "trackName": "Smells Like a Freakshow",
+      "playCount": 1,
+      "totalMsPlayed": 52591
+    },
+    {
+      "artistName": "Powerwolf",
+      "trackName": "Army of the Night",
+      "playCount": 1,
+      "totalMsPlayed": 5753
+    },
+    {
+      "artistName": "Lordi",
+      "trackName": "Who's Your Daddy",
+      "playCount": 1,
+      "totalMsPlayed": 4533
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Dalai Lama",
+      "playCount": 1,
+      "totalMsPlayed": 1553
+    },
+    {
+      "artistName": "Apocalyptica",
+      "trackName": "Bittersweet",
+      "playCount": 1,
+      "totalMsPlayed": 393
+    },
+    {
+      "artistName": "Apocalyptica",
+      "trackName": "Life Burns",
+      "playCount": 1,
+      "totalMsPlayed": 293
+    },
+    {
+      "artistName": "Lordi",
+      "trackName": "The Riff",
+      "playCount": 1,
+      "totalMsPlayed": 433
+    },
+    {
+      "artistName": "Apocalyptica",
+      "trackName": "Path",
+      "playCount": 1,
+      "totalMsPlayed": 953
+    },
+    {
+      "artistName": "Volbeat",
+      "trackName": "Seal The Deal",
+      "playCount": 1,
+      "totalMsPlayed": 34523
+    },
+    {
+      "artistName": "t.A.T.u.",
+      "trackName": "All The Things She Said",
+      "playCount": 2,
+      "totalMsPlayed": 24483
+    },
+    {
+      "artistName": "KISS",
+      "trackName": "I Was Made For Lovin' You",
+      "playCount": 1,
+      "totalMsPlayed": 1510
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Judas",
+      "playCount": 3,
+      "totalMsPlayed": 499182
+    },
+    {
+      "artistName": "Imagine Dragons",
+      "trackName": "Eyes Closed",
+      "playCount": 1,
+      "totalMsPlayed": 200026
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Poker Face",
+      "playCount": 2,
+      "totalMsPlayed": 237447
+    },
+    {
+      "artistName": "Nemo",
+      "trackName": "The Code",
+      "playCount": 6,
+      "totalMsPlayed": 959532
+    },
+    {
+      "artistName": "Baby Lasagna",
+      "trackName": "Rim Tim Tagi Dim",
+      "playCount": 5,
+      "totalMsPlayed": 895310
+    },
+    {
+      "artistName": "alyona alyona",
+      "trackName": "Teresa & Maria",
+      "playCount": 2,
+      "totalMsPlayed": 198703
+    },
+    {
+      "artistName": "Eden Golan",
+      "trackName": "Hurricane",
+      "playCount": 1,
+      "totalMsPlayed": 15090
+    },
+    {
+      "artistName": "Slimane",
+      "trackName": "Mon amour",
+      "playCount": 1,
+      "totalMsPlayed": 51609
+    },
+    {
+      "artistName": "Windows95Man",
+      "trackName": "No Rules!",
+      "playCount": 1,
+      "totalMsPlayed": 175896
+    },
+    {
+      "artistName": "5MIINUST",
+      "trackName": "(nendest) narkootikumidest ei tea me (küll) midagi",
+      "playCount": 1,
+      "totalMsPlayed": 45401
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Ich tu dir weh",
+      "playCount": 1,
+      "totalMsPlayed": 301853
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Halleluja",
+      "playCount": 1,
+      "totalMsPlayed": 224706
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Reise, Reise",
+      "playCount": 1,
+      "totalMsPlayed": 251146
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Sehnsucht",
+      "playCount": 1,
+      "totalMsPlayed": 243733
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Weisses Fleisch",
+      "playCount": 1,
+      "totalMsPlayed": 215998
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Pussy",
+      "playCount": 1,
+      "totalMsPlayed": 239080
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Moskau",
+      "playCount": 1,
+      "totalMsPlayed": 256306
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Bück dich",
+      "playCount": 1,
+      "totalMsPlayed": 203383
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Mein Land",
+      "playCount": 1,
+      "totalMsPlayed": 233186
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Benzin",
+      "playCount": 1,
+      "totalMsPlayed": 226000
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Wollt ihr das Bett in Flammen sehen",
+      "playCount": 1,
+      "totalMsPlayed": 315850
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Rammlied",
+      "playCount": 1,
+      "totalMsPlayed": 318666
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Te quiero puta!",
+      "playCount": 1,
+      "totalMsPlayed": 235626
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Rammstein",
+      "playCount": 1,
+      "totalMsPlayed": 267743
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Stirb nicht vor mir (Don't Die Before I Do)",
+      "playCount": 1,
+      "totalMsPlayed": 245266
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Heirate mich",
+      "playCount": 1,
+      "totalMsPlayed": 284648
+    },
+    {
+      "artistName": "Rammstein",
+      "trackName": "Tattoo",
+      "playCount": 1,
+      "totalMsPlayed": 251658
+    },
+    {
+      "artistName": "PAIN",
+      "trackName": "Same Old Song",
+      "playCount": 1,
+      "totalMsPlayed": 26903
+    },
+    {
+      "artistName": "Erdling",
+      "trackName": "Firmament",
+      "playCount": 1,
+      "totalMsPlayed": 12443
+    },
+    {
+      "artistName": "Christopher Lee",
+      "trackName": "Act III: The Bloody Verdict of Verden",
+      "playCount": 1,
+      "totalMsPlayed": 115665
+    },
+    {
+      "artistName": "Manowar",
+      "trackName": "Dark Avenger",
+      "playCount": 1,
+      "totalMsPlayed": 56872
+    },
+    {
+      "artistName": "Avril Lavigne",
+      "trackName": "Sk8er Boi",
+      "playCount": 1,
+      "totalMsPlayed": 204000
+    },
+    {
+      "artistName": "Avril Lavigne",
+      "trackName": "Girlfriend",
+      "playCount": 1,
+      "totalMsPlayed": 216600
+    },
+    {
+      "artistName": "Em Beihold",
+      "trackName": "Numb Little Bug",
+      "playCount": 1,
+      "totalMsPlayed": 115667
+    },
+    {
+      "artistName": "Paramore",
+      "trackName": "Still into You",
+      "playCount": 1,
+      "totalMsPlayed": 216013
+    },
+    {
+      "artistName": "AJR",
+      "trackName": "World's Smallest Violin",
+      "playCount": 1,
+      "totalMsPlayed": 180746
+    },
+    {
+      "artistName": "The Struts",
+      "trackName": "Could Have Been Me",
+      "playCount": 2,
+      "totalMsPlayed": 254773
+    },
+    {
+      "artistName": "Katy Perry",
+      "trackName": "Last Friday Night (T.G.I.F.)",
+      "playCount": 1,
+      "totalMsPlayed": 230733
+    },
+    {
+      "artistName": "Olivia Rodrigo",
+      "trackName": "good 4 u",
+      "playCount": 1,
+      "totalMsPlayed": 178146
+    },
+    {
+      "artistName": "MARINA",
+      "trackName": "Are You Satisfied?",
+      "playCount": 1,
+      "totalMsPlayed": 201186
+    },
+    {
+      "artistName": "Gym Class Heroes",
+      "trackName": "Cupid's Chokehold / Breakfast in America",
+      "playCount": 1,
+      "totalMsPlayed": 243773
+    },
+    {
+      "artistName": "5 Seconds of Summer",
+      "trackName": "She Looks So Perfect",
+      "playCount": 1,
+      "totalMsPlayed": 202496
+    },
+    {
+      "artistName": "Katy Perry",
+      "trackName": "Hot N Cold",
+      "playCount": 1,
+      "totalMsPlayed": 220226
+    },
+    {
+      "artistName": "Olivia Rodrigo",
+      "trackName": "get him back!",
+      "playCount": 1,
+      "totalMsPlayed": 211141
+    },
+    {
+      "artistName": "Conan Gray",
+      "trackName": "Memories",
+      "playCount": 1,
+      "totalMsPlayed": 248818
+    },
+    {
+      "artistName": "Blake Roman",
+      "trackName": "Poison - Hazbin Hotel Original Soundtrack",
+      "playCount": 1,
+      "totalMsPlayed": 127689
+    },
+    {
+      "artistName": "Conan Gray",
+      "trackName": "Maniac",
+      "playCount": 1,
+      "totalMsPlayed": 185773
+    },
+    {
+      "artistName": "MARINA",
+      "trackName": "Oh No!",
+      "playCount": 1,
+      "totalMsPlayed": 182586
+    },
+    {
+      "artistName": "Katy Perry",
+      "trackName": "E.T.",
+      "playCount": 1,
+      "totalMsPlayed": 206373
+    },
+    {
+      "artistName": "Britney Spears",
+      "trackName": "Toxic",
+      "playCount": 1,
+      "totalMsPlayed": 198800
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Bad Romance",
+      "playCount": 1,
+      "totalMsPlayed": 294573
+    },
+    {
+      "artistName": "Ryan Mack",
+      "trackName": "Overwhelmed (Ryan Mack Remix)",
+      "playCount": 1,
+      "totalMsPlayed": 103240
+    },
+    {
+      "artistName": "Kesha",
+      "trackName": "Die Young",
+      "playCount": 1,
+      "totalMsPlayed": 211920
+    },
+    {
+      "artistName": "Fall Out Boy",
+      "trackName": "Centuries",
+      "playCount": 1,
+      "totalMsPlayed": 228360
+    },
+    {
+      "artistName": "Avril Lavigne",
+      "trackName": "Complicated",
+      "playCount": 1,
+      "totalMsPlayed": 244506
+    },
+    {
+      "artistName": "P!nk",
+      "trackName": "So What",
+      "playCount": 1,
+      "totalMsPlayed": 215160
+    },
+    {
+      "artistName": "Poor Man's Poison",
+      "trackName": "Hell's Comin' with Me",
+      "playCount": 1,
+      "totalMsPlayed": 212996
+    },
+    {
+      "artistName": "Taylor Swift",
+      "trackName": "Wildest Dreams (Taylor's Version)",
+      "playCount": 1,
+      "totalMsPlayed": 220433
+    },
+    {
+      "artistName": "OneRepublic",
+      "trackName": "Counting Stars",
+      "playCount": 1,
+      "totalMsPlayed": 257266
+    },
+    {
+      "artistName": "JVKE",
+      "trackName": "golden hour",
+      "playCount": 1,
+      "totalMsPlayed": 209259
+    },
+    {
+      "artistName": "Wheatus",
+      "trackName": "Teenage Dirtbag",
+      "playCount": 1,
+      "totalMsPlayed": 241666
+    },
+    {
+      "artistName": "Taylor Swift",
+      "trackName": "Cruel Summer",
+      "playCount": 1,
+      "totalMsPlayed": 89819
+    },
+    {
+      "artistName": "Neon Trees",
+      "trackName": "Everybody Talks",
+      "playCount": 1,
+      "totalMsPlayed": 177280
+    },
+    {
+      "artistName": "Set It Off",
+      "trackName": "Partners in Crime (feat. Ash Costello)",
+      "playCount": 1,
+      "totalMsPlayed": 211026
+    },
+    {
+      "artistName": "Ricky Montgomery",
+      "trackName": "Line Without a Hook",
+      "playCount": 1,
+      "totalMsPlayed": 249586
+    },
+    {
+      "artistName": "Taylor Swift",
+      "trackName": "You Belong With Me (Taylor’s Version)",
+      "playCount": 1,
+      "totalMsPlayed": 231124
+    },
+    {
+      "artistName": "Kesha",
+      "trackName": "TiK ToK",
+      "playCount": 1,
+      "totalMsPlayed": 199693
+    },
+    {
+      "artistName": "Neoni",
+      "trackName": "DARKSIDE",
+      "playCount": 1,
+      "totalMsPlayed": 168000
+    },
+    {
+      "artistName": "Britney Spears",
+      "trackName": "...Baby One More Time",
+      "playCount": 1,
+      "totalMsPlayed": 211066
+    },
+    {
+      "artistName": "Amy Winehouse",
+      "trackName": "Back To Black",
+      "playCount": 1,
+      "totalMsPlayed": 241293
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Telephone",
+      "playCount": 1,
+      "totalMsPlayed": 220626
+    },
+    {
+      "artistName": "Dua Lipa",
+      "trackName": "Training Season",
+      "playCount": 1,
+      "totalMsPlayed": 209487
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "Lay All Your Love On Me",
+      "playCount": 1,
+      "totalMsPlayed": 152
+    },
+    {
+      "artistName": "Rihanna",
+      "trackName": "S&M",
+      "playCount": 1,
+      "totalMsPlayed": 1963
+    },
+    {
+      "artistName": "Dua Lipa",
+      "trackName": "Houdini",
+      "playCount": 1,
+      "totalMsPlayed": 1093
+    },
+    {
+      "artistName": "Nelly Furtado",
+      "trackName": "Maneater",
+      "playCount": 1,
+      "totalMsPlayed": 258893
+    },
+    {
+      "artistName": "Fools Garden",
+      "trackName": "Lemon Tree",
+      "playCount": 1,
+      "totalMsPlayed": 191026
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Applause",
+      "playCount": 1,
+      "totalMsPlayed": 212333
+    },
+    {
+      "artistName": "Blondie",
+      "trackName": "Call Me",
+      "playCount": 1,
+      "totalMsPlayed": 12163
+    },
+    {
+      "artistName": "Frankie Valli",
+      "trackName": "Can't Take My Eyes off You",
+      "playCount": 1,
+      "totalMsPlayed": 111926
+    },
+    {
+      "artistName": "Amy Winehouse",
+      "trackName": "You Know I'm No Good",
+      "playCount": 1,
+      "totalMsPlayed": 1613
+    },
+    {
+      "artistName": "Madonna",
+      "trackName": "Hung Up",
+      "playCount": 1,
+      "totalMsPlayed": 2903
+    },
+    {
+      "artistName": "Christina Aguilera",
+      "trackName": "Genie In a Bottle",
+      "playCount": 1,
+      "totalMsPlayed": 2103
+    },
+    {
+      "artistName": "Maroon 5",
+      "trackName": "This Love",
+      "playCount": 1,
+      "totalMsPlayed": 1173
+    },
+    {
+      "artistName": "Nelly Furtado",
+      "trackName": "Promiscuous",
+      "playCount": 1,
+      "totalMsPlayed": 5183
+    },
+    {
+      "artistName": "Britney Spears",
+      "trackName": "Oops!...I Did It Again",
+      "playCount": 1,
+      "totalMsPlayed": 108181
+    },
+    {
+      "artistName": "Britney Spears",
+      "trackName": "Womanizer",
+      "playCount": 1,
+      "totalMsPlayed": 766
+    },
+    {
+      "artistName": "Ace of Base",
+      "trackName": "All That She Wants",
+      "playCount": 1,
+      "totalMsPlayed": 1753
+    },
+    {
+      "artistName": "Arctic Monkeys",
+      "trackName": "Why'd You Only Call Me When You're High?",
+      "playCount": 1,
+      "totalMsPlayed": 893
+    },
+    {
+      "artistName": "John Travolta",
+      "trackName": "You're The One That I Want - From “Grease”",
+      "playCount": 1,
+      "totalMsPlayed": 5993
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Just Dance",
+      "playCount": 1,
+      "totalMsPlayed": 843
+    },
+    {
+      "artistName": "Black Eyed Peas",
+      "trackName": "Pump It",
+      "playCount": 1,
+      "totalMsPlayed": 1613
+    },
+    {
+      "artistName": "Rihanna",
+      "trackName": "Breakin' Dishes",
+      "playCount": 1,
+      "totalMsPlayed": 1973
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Alejandro",
+      "playCount": 1,
+      "totalMsPlayed": 993
+    },
+    {
+      "artistName": "Amy Winehouse",
+      "trackName": "Rehab",
+      "playCount": 1,
+      "totalMsPlayed": 973
+    },
+    {
+      "artistName": "Dua Lipa",
+      "trackName": "Love Again",
+      "playCount": 1,
+      "totalMsPlayed": 1123
+    },
+    {
+      "artistName": "Rihanna",
+      "trackName": "Don't Stop The Music",
+      "playCount": 1,
+      "totalMsPlayed": 1363
+    },
+    {
+      "artistName": "Macklemore",
+      "trackName": "Can't Hold Us (feat. Ray Dalton)",
+      "playCount": 1,
+      "totalMsPlayed": 893
+    },
+    {
+      "artistName": "Beyoncé",
+      "trackName": "Crazy In Love (feat. Jay-Z)",
+      "playCount": 1,
+      "totalMsPlayed": 1663
+    },
+    {
+      "artistName": "Dua Lipa",
+      "trackName": "Break My Heart",
+      "playCount": 1,
+      "totalMsPlayed": 683
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "LoveGame",
+      "playCount": 1,
+      "totalMsPlayed": 703
+    },
+    {
+      "artistName": "Outkast",
+      "trackName": "Hey Ya!",
+      "playCount": 1,
+      "totalMsPlayed": 913
+    },
+    {
+      "artistName": "The Pointer Sisters",
+      "trackName": "I'm So Excited",
+      "playCount": 1,
+      "totalMsPlayed": 1303
+    },
+    {
+      "artistName": "Lady Gaga",
+      "trackName": "Paparazzi",
+      "playCount": 1,
+      "totalMsPlayed": 543
+    },
+    {
+      "artistName": "Depeche Mode",
+      "trackName": "Enjoy the Silence",
+      "playCount": 1,
+      "totalMsPlayed": 4823
+    },
+    {
+      "artistName": "Queen",
+      "trackName": "Don't Stop Me Now - Remastered 2011",
+      "playCount": 1,
+      "totalMsPlayed": 1483
+    },
+    {
+      "artistName": "Post Malone",
+      "trackName": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "playCount": 1,
+      "totalMsPlayed": 157560
+    },
+    {
+      "artistName": "Dua Lipa",
+      "trackName": "Levitating (feat. DaBaby)",
+      "playCount": 1,
+      "totalMsPlayed": 4860
+    },
+    {
+      "artistName": "Jonas Brothers",
+      "trackName": "Sucker",
+      "playCount": 1,
+      "totalMsPlayed": 181026
+    },
+    {
+      "artistName": "Kanye West",
+      "trackName": "Heartless",
+      "playCount": 1,
+      "totalMsPlayed": 211000
+    },
+    {
+      "artistName": "Post Malone",
+      "trackName": "Circles",
+      "playCount": 1,
+      "totalMsPlayed": 215280
+    },
+    {
+      "artistName": "OneRepublic",
+      "trackName": "I Ain't Worried",
+      "playCount": 1,
+      "totalMsPlayed": 148485
+    },
+    {
+      "artistName": "Harry Styles",
+      "trackName": "Watermelon Sugar",
+      "playCount": 1,
+      "totalMsPlayed": 37540
+    },
+    {
+      "artistName": "Boney M.",
+      "trackName": "Rasputin - Single Version",
+      "playCount": 1,
+      "totalMsPlayed": 220733
+    },
+    {
+      "artistName": "The Mamas & The Papas",
+      "trackName": "California Dreamin' - Single Version",
+      "playCount": 1,
+      "totalMsPlayed": 162373
+    },
+    {
+      "artistName": "ABBA",
+      "trackName": "SOS",
+      "playCount": 1,
+      "totalMsPlayed": 202386
+    },
+    {
+      "artistName": "Dead Or Alive",
+      "trackName": "You Spin Me Round (Like a Record)",
+      "playCount": 1,
+      "totalMsPlayed": 173789
+    }
+  ]
+}
