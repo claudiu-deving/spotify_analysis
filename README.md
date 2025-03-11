@@ -1,5 +1,8 @@
 # Spotify Listening Analysis
 
+**NOTE**: 
+This is an experiment, the entire project was written by the enhanced Claude 3.7 LLM.
+
 This project provides tools to analyze your personal Spotify listening history using the data export provided by Spotify.
 
 ## Features
